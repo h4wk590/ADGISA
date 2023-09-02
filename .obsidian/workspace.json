@@ -1,0 +1,166 @@
+{
+  "main": {
+    "id": "2243d31df50811a4",
+    "type": "split",
+    "children": [
+      {
+        "id": "30b2c2cf017a7c49",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "afe37f9448ee3523",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "GEOG501/Test.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "15360d0201d6c41c",
+    "type": "split",
+    "children": [
+      {
+        "id": "76c2bff64269173b",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "d542898d1856b3b5",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "c37f39971b99dd9e",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "ec240377ec9b6ea9",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 214.5
+  },
+  "right": {
+    "id": "7dea4dd906847f7b",
+    "type": "split",
+    "children": [
+      {
+        "id": "559a9faf866cc20a",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "f814bdf33ee01181",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "GEOG501/Test.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "78a4531a1e8b3896",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "GEOG501/Test.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "42f05f54c4dec59c",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "351697593d7f0629",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "GEOG501/Test.md"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 299.5,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false
+    }
+  },
+  "active": "afe37f9448ee3523",
+  "lastOpenFiles": [
+    "GEOG501/~$Test.docx",
+    "GEOG501/Test.docx",
+    "README.md",
+    "GEOG501/Test.md",
+    "attachments/Pasted image 20230901211640.png",
+    "attachments/Pasted image 20230901211426.png",
+    "attachments/Pasted image 20230901211321.png",
+    "GEOG501/Introduction",
+    "attachments/Pasted image 20230901172922.png",
+    "GEOG501",
+    "attachments",
+    "GEOG-501/TEST.md",
+    "attachments",
+    "attachements/Pasted image 20230901171148.png"
+  ]
+}
