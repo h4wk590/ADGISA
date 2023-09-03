@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "GEOG501/Test.md",
+                "file": "GEOG501/Introduction/Test.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "GEOG501/Test.md",
+                "file": "GEOG501/Introduction/Test.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "GEOG501/Test.md",
+                "file": "GEOG501/Introduction/Test.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "GEOG501/Test.md"
+                "file": "GEOG501/Introduction/Test.md"
               }
             }
           }
@@ -146,12 +146,12 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "afe37f9448ee3523",
+  "active": "d542898d1856b3b5",
   "lastOpenFiles": [
     "GEOG501/~$Test.docx",
     "GEOG501/Test.docx",
     "README.md",
-    "GEOG501/Test.md",
+    "GEOG501/Introduction/Test.md",
     "attachments/Pasted image 20230901211640.png",
     "attachments/Pasted image 20230901211426.png",
     "attachments/Pasted image 20230901211321.png",
