@@ -12,3 +12,10 @@ Suitable projects:
 
 ### Chance to gain contacts
 
+Prof will reach out to industry contacts from sept - Oct for projects/work, but can always look independently for work.
+
+Starting in November prof will present a list of employers looking for students for work/projects.
+
+- First come first serve basis
+- In some cases the companies will just want the top student in the program.
+
