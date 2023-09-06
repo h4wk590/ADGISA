@@ -16,8 +16,8 @@ Why is soil discrete and not continuous?
 #### Vector Data
 
 - Vector Data is real world data
-- Geometry can be polygons, lines, points.
-- Attribute tables provide info about the features (like building a building, road, telephone pole.)
+- Geometry can be polygons, lines, points. (map scale matters for each of these)
+- Attribute tables provide info about the features (like a building, roads, telephone pole.)
 
 #### Raster Data
 
