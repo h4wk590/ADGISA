@@ -63,3 +63,5 @@ Several factors for implementing GIS
 - Logical consistency
 - Meaningful integration between layers.
 
+
+
