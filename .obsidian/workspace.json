@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "30b2c2cf017a7c49",
+        "id": "f36a427d748f9e42",
         "type": "tabs",
         "children": [
           {
-            "id": "afe37f9448ee3523",
+            "id": "19c90757d9555ead",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "GEOG501/Introduction/Practicum.md",
+                "file": "GEOG501/Introduction/Aidan Brown - ADGISA - Lab 01 - Computer Setup.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "GEOG501/Introduction/Practicum.md",
+                "file": "GEOG501/Introduction/Aidan Brown - ADGISA - Lab 01 - Computer Setup.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "GEOG501/Introduction/Practicum.md",
+                "file": "GEOG501/Introduction/Aidan Brown - ADGISA - Lab 01 - Computer Setup.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "GEOG501/Introduction/Practicum.md"
+                "file": "GEOG501/Introduction/Aidan Brown - ADGISA - Lab 01 - Computer Setup.md"
               }
             }
           }
@@ -146,10 +146,14 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "afe37f9448ee3523",
+  "active": "19c90757d9555ead",
   "lastOpenFiles": [
-    "GEOG501/Lab 01/Untitled.md",
+    "GEOG501/Lab 01/ArcGIS Pro Basics_Certificate_06172023_Aidan_Brown.pdf",
+    "GEOG501/Lab 01/GIS Basics_Certificate_09052023_Aidan_Brown.pdf",
+    "GEOG501/Lab 01/New folder (2)",
+    "GEOG501/Lab 01/New folder",
     "GEOG501/Introduction/Practicum.md",
+    "GEOG501/Lab 01/Untitled.md",
     "GEOG501/Introduction/Aidan Brown - ADGISA - Lab 01 - Computer Setup.md",
     "GEOG501/Lab 01/~$dan Brown - ADGISA - Lab 01 - Computer Setup.docx",
     "GEOG501/Lab 01/Aidan Brown - ADGISA - Lab 01 - Computer Setup.docx",
@@ -158,15 +162,12 @@
     "GEOG501/Lab 01/~WRD0001.tmp",
     "GEOG501/Lab 01/Aidan Brown - ADGISA - Lab 01 - Computer Setup.pdf.docx",
     "GEOG501/Introduction/Aidan Brown - ADGISA - Lab 01 - Computer Setup.pdf",
-    "GEOG501/Lab 01/Lab 01 - Computer Setup.pdf",
     "attachments/Pasted image 20230905123102.png",
     "attachments/Pasted image 20230905122906.png",
     "attachments/Pasted image 20230905122738.png",
     "attachments/Pasted image 20230905122356.png",
     "attachments/Pasted image 20230905115706.png",
     "attachments/Pasted image 20230905115316.png",
-    "GEOG501/Lab 01/~$b 01 - Computer Setup.docx",
-    "GEOG501/Lab 01/Lab 01 - Computer Setup.docx",
     "attachments/Pasted image 20230905112309.png",
     "attachments/Pasted image 20230905112118.png",
     "attachments/Pasted image 20230905111500.png",
