@@ -104,7 +104,7 @@ A raster data model uses the entire canvas of equally sized cells to reference c
 
 Usually a raster data model is used when representing maps of vegetations, or political units.
 
-### Raster Data Models
+#### Raster Data Models
 
 - Cell location formula:
 
