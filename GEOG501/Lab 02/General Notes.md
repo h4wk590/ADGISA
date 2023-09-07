@@ -1,5 +1,22 @@
 
 
+### What is GIS?
+
+- A way to analyze, and Visualize spatial data computationally, usually via maps.
+- A way to communicate data for anyone to see. (hard to visualize a database as is.)
+- Helps organizations, and governments, and people solve complex geographical issues.
+
+### Why GIS?
+
+- Specific needs of the individual/organization
+
+**Think about how to visualize a problem using GIS..**
+
+- Emergency response systems that show the quickest way to get to a destination
+- Wanting to know where parks benches and picnic tables are in a specific park, or all parks in a city?
+- Using business intelligence to track customer spending trends based on store locations.
+- Mapping tree density and managing tree growth status within forestry.
+
 ### ArcGIS Tips
 
 - Right click attribute table and select **statistics** for quick sums of selected objects. 
