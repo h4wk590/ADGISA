@@ -23,7 +23,7 @@ Unit scale matters to the size of the map versus the real world.
 - Smaller scale number = large scale map (1:5000) (large detailed)
 - Large scale number = small scale map (1:300,000,000) (small detailed)
 
-## Vector and Raster
+## Vector and Raster Data Models
 
 - Vector data is discrete data that can be absolutely measured and labeled.
 - Raster data is continuous data that measures continuous change gradually over a landscape.(elevation, rainfall, etc.)
@@ -55,8 +55,16 @@ Feature class is the raw data, until it is added to a map. It then becomes a ***
 - whole numbers and numbers with decimals.
 - Single Attribute (cell value).
 - Stores all details in the cell to database.
+- Anything requiring surface area raster will be better for.
 
-## File Formats
+## File Formats VS Data Model
+
+A data model is the concept for the specific File formats, for example:
+
+- Text is the data model and .txt is the file format. 
+- Vector is the data model and .shp is the file format
+- Raster is the data model and .tiff is the file format
+
 
 
 

@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "GEOG501/Lab 02/Lab2_Aidan_Brown.md",
+                "file": "GEOG501/Lab 02/Lecture Notes.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "GEOG501/Lab 02/Lab2_Aidan_Brown.md",
+                "file": "GEOG501/Lab 02/Lecture Notes.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "GEOG501/Lab 02/Lab2_Aidan_Brown.md",
+                "file": "GEOG501/Lab 02/Lecture Notes.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "GEOG501/Lab 02/Lab2_Aidan_Brown.md"
+                "file": "GEOG501/Lab 02/Lecture Notes.md"
               }
             }
           }
@@ -148,6 +148,9 @@
   },
   "active": "19c90757d9555ead",
   "lastOpenFiles": [
+    "GEOG501/General Notes.md",
+    "GEOG501/Lab 02/Lab2_Aidan_Brown.md",
+    "GEOG501/Lab 03",
     "GEOG501/Lab 02/~$b2_Aidan_Brown.docx",
     "GEOG501/Lab 02/~WRL0004.tmp",
     "GEOG501/Lab 02/~WRD0003.tmp",
@@ -158,7 +161,6 @@
     "attachments/Pasted image 20230907102629.png",
     "attachments/Pasted image 20230907102458.png",
     "GEOG501/Lab 01/Lab1_Aidan_Brown.md",
-    "GEOG501/Lab 02/Lab2_Aidan_Brown.md",
     "GEOG501/Lab 01/Lecture Notes.md",
     "GEOG501/Lab 01/ArcGIS Pro Basics_Certificate_06172023_Aidan_Brown.pdf",
     "GEOG501/Lab 02/Lecture Notes.md",
@@ -170,12 +172,9 @@
     "attachments/Pasted image 20230901211321.png",
     "attachments/Pasted image 20230901172922.png",
     "GEOG501/Introduction/Aidan Brown - ADGISA - Lab 01 - Computer Setup.md",
-    "GEOG501/General Notes.md",
     "Readings",
     "GEOG501/Lab 02/Getting Started with Data Management_Certificate_09062023_Aidan_Brown.pdf",
     "GEOG501/Lab 02/Introduction to Spatial Data_Certificate_09062023_Aidan_Brown.pdf",
-    "GEOG501/Lab 02",
-    "GEOG501/Lab 01/Lab1_Aidan_Brown.docx",
     "GEOG501/Introduction/Practicum.md",
     "GEOG501/Introduction/Introduction.md",
     "GEOG501/Introduction/Test.md",

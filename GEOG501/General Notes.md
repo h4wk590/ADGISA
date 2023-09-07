@@ -58,6 +58,20 @@ Why is soil discrete and not continuous?
 The more complete metadata from datasets generally means that the data is 'clean' and is better quality.
 
 
+### Coordinates
+
+
+### The shape of the Earth
+
+- The Earth is an ellipsoid, or more importantly a spheroid.
+- It bulges out at the equator so it isn't a perfect sphere.
+
+
+### Geographical Coordinate Systems
+
+- 3 dimensional model that identifies points on the earth.
+- Latitude (**parallels**)
+- Longitude (**meridians**)
 
 
 
