@@ -85,9 +85,17 @@ The more complete metadata from datasets generally means that the data is 'clean
 - Latitude (**parallels**)
 - Longitude (**meridians**)
 
+> If a map only contains 2 spatial properties 1 of them will always be direction.
+
+
 #### Datum
 
 - Is a frame of reference to define the position of the spheroid of the earth relative to the center of the datums position.
 
 ![Pasted image 20230907142357.png](../attachments/Pasted%20image%2020230907142357.png)
+
+
+
+
+
 

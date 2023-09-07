@@ -11,11 +11,9 @@
             "id": "19c90757d9555ead",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "pdf",
               "state": {
-                "file": "GEOG501/General Notes.md",
-                "mode": "source",
-                "source": false
+                "file": "GEOG501/Introduction/GEOG501_F2F_Syllabus_Fall2023.pdf"
               }
             }
           }
@@ -85,7 +83,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "GEOG501/General Notes.md",
+                "file": "GEOG501/Introduction/GEOG501_F2F_Syllabus_Fall2023.pdf",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +100,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "GEOG501/General Notes.md",
+                "file": "GEOG501/Introduction/GEOG501_F2F_Syllabus_Fall2023.pdf",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +123,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "GEOG501/General Notes.md"
+                "file": "GEOG501/Introduction/GEOG501_F2F_Syllabus_Fall2023.pdf"
               }
             }
           }
@@ -146,12 +144,15 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "19c90757d9555ead",
+  "active": "d542898d1856b3b5",
   "lastOpenFiles": [
+    "GEOG501/Lab 03/Introduction to Coordinate Systems_Certificate_09072023_Aidan_Brown.pdf",
+    "GEOG501/Introduction/Introduction.md",
+    "GEOG501/Lab 01/Lab1_Aidan_Brown.md",
+    "GEOG501/General Notes.md",
     "attachments/Pasted image 20230907143414.png",
     "attachments/Pasted image 20230907143217.png",
     "Readings/Ch2.md",
-    "GEOG501/General Notes.md",
     "attachments/Pasted image 20230907142357.png",
     "GEOG501/Lab 02/Lecture Notes.md",
     "GEOG501/Lab 02/Lab2_Aidan_Brown.md",
@@ -165,19 +166,16 @@
     "attachments/Pasted image 20230907102759.png",
     "attachments/Pasted image 20230907102629.png",
     "attachments/Pasted image 20230907102458.png",
-    "GEOG501/Lab 01/Lab1_Aidan_Brown.md",
     "GEOG501/Lab 01/Lecture Notes.md",
     "GEOG501/Lab 01/ArcGIS Pro Basics_Certificate_06172023_Aidan_Brown.pdf",
     "GEOG501/Introduction/GEOG501_F2F_Syllabus_Fall2023.pdf",
     "attachments/Pasted image 20230905111500.png",
     "attachments/Pasted image 20230905111206.png",
-    "attachments/Pasted image 20230901211640.png",
     "GEOG501/Introduction/Aidan Brown - ADGISA - Lab 01 - Computer Setup.md",
     "Readings",
     "GEOG501/Lab 02/Getting Started with Data Management_Certificate_09062023_Aidan_Brown.pdf",
     "GEOG501/Lab 02/Introduction to Spatial Data_Certificate_09062023_Aidan_Brown.pdf",
     "GEOG501/Introduction/Practicum.md",
-    "GEOG501/Introduction/Introduction.md",
     "GEOG501/Introduction/Test.md",
     "README.md",
     "GEOG-501/TEST.md"
