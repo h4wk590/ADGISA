@@ -118,3 +118,7 @@ This image with figure makes more sense than I can explain. It's a whole page fo
 
 Figure 2-23: Example of multi-part and single-part features. Here, counties for Rhode Island, a state in the Eastern U.S.A., are shown with one table entry for each county (top), with multi-part features in a layer, and with one table entry for each distinct polygon (bottom), with only single-part features in the layer. Note that calculations, analysis, and interpretation may differ for multi-part vs.. single-part features.
 
+## Vector to Raster Conversion
+
+
+

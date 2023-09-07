@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Readings/Ch2.md",
+                "file": "GEOG501/Lab 02/Lecture Notes.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Readings/Ch2.md",
+                "file": "GEOG501/Lab 02/Lecture Notes.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Readings/Ch2.md",
+                "file": "GEOG501/Lab 02/Lecture Notes.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Readings/Ch2.md"
+                "file": "GEOG501/Lab 02/Lecture Notes.md"
               }
             }
           }
@@ -148,13 +148,14 @@
   },
   "active": "19c90757d9555ead",
   "lastOpenFiles": [
+    "Readings/Ch2.md",
+    "GEOG501/Lab 02/Lecture Notes.md",
     "GEOG501/Introduction/GEOG501_F2F_Syllabus_Fall2023.pdf",
     "attachments/Pasted image 20230905111500.png",
     "attachments/Pasted image 20230905111206.png",
     "attachments/Pasted image 20230901211640.png",
     "attachments/Pasted image 20230901211321.png",
     "attachments/Pasted image 20230901172922.png",
-    "Readings/Ch2.md",
     "attachments/Pasted image 20230906224520.png",
     "attachments/Pasted image 20230906220347.png",
     "GEOG501/Introduction/Aidan Brown - ADGISA - Lab 01 - Computer Setup.md",
@@ -174,7 +175,6 @@
     "GEOG501/Lab 01/New folder (2)",
     "GEOG501/Lab 01/New folder",
     "GEOG501/Introduction/Practicum.md",
-    "GEOG501/Lab 01/~$dan Brown - ADGISA - Lab 01 - Computer Setup.docx",
     "GEOG501/Introduction/Introduction.md",
     "GEOG501/Introduction/Test.md",
     "README.md",
