@@ -21,6 +21,18 @@
 
 - Right click attribute table and select **statistics** for quick sums of selected objects. 
 
+### Creating Feature Class from CSV Coordinate System
+
+- Right click csv file from the catalog view:
+
+![Pasted image 20230907143217.png](../attachments/Pasted%20image%2020230907143217.png)
+
+- Hover over **export** and select either line, polygon, or ellipse feature class.
+
+![Pasted image 20230907143414.png](../attachments/Pasted%20image%2020230907143414.png)
+
+
+
 ### Discrete vs Continuous 
 
 Why is soil discrete and not continuous?
@@ -73,5 +85,9 @@ The more complete metadata from datasets generally means that the data is 'clean
 - Latitude (**parallels**)
 - Longitude (**meridians**)
 
+#### Datum
 
+- Is a frame of reference to define the position of the spheroid of the earth relative to the center of the datums position.
+
+![Pasted image 20230907142357.png](../attachments/Pasted%20image%2020230907142357.png)
 

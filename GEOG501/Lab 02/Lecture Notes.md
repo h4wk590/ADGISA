@@ -47,6 +47,13 @@ Feature class is a grouping of features, their coordinates, and the associated a
 
 Feature class is the raw data, until it is added to a map. It then becomes a ***feature layer***.
 
+#### What makes up a shapefile
+
+- .shp (stores geometry)
+- .dbf (database file stores tables)
+- .shx (links the other files together)
+- .prj (coordinates)
+
 
 
 ### Raster
