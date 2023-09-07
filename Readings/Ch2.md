@@ -1,8 +1,8 @@
 
 ## Data in GIS
 
-- Data depends on the use case and are subjective by the GIS developer/analyst.
-- Can be used to Represent a simplistic  view of physical locations and objects.
+- Data depends on the use case and is subjective by the GIS developer/analyst.
+- Can be used to Represent a simplistic view of physical locations and objects.
 - Using polygons instead of satellite imagery increases system performance.
 
 
