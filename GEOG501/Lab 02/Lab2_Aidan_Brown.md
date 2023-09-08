@@ -55,7 +55,7 @@ How many feature classes does the creeks geodatabase contain?
 
 What is the area in hectares of fire response zone C1 (rounded to zero decimals)?
 
-- Area in hectares of zone C1 is 215.0.
+- Area in hectares of zone C1 is 215.0 Ha.
 
 ## Deliverable 8
 

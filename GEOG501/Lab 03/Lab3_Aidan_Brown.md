@@ -17,6 +17,10 @@
 What is the relationship between latitude and the magnitude of distortion (based on distance)
 for the Mercator projection? Briefly explain your answer:
 
-Because the first comparison of the two cities (Quito, and Nairobi) are essentially on or near the equator the measurements are less distorted and more accurate when using the World Mercator. While the other two comparisons are further away from the equator, the measurements become more distorted as a result.
+Because the first comparison of the two cities (Quito, and Nairobi) are essentially on or near the equator, the measurements are less distorted and more accurate when using the World Mercator. While the other two comparisons are further away from the equator, the measurements become more distorted as a result.
+
+## Deliverable 3
+
+
 
 
