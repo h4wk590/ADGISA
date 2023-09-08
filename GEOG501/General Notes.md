@@ -95,6 +95,41 @@ The more complete metadata from datasets generally means that the data is 'clean
 ![Pasted image 20230907142357.png](../attachments/Pasted%20image%2020230907142357.png)
 
 
+### Longitude and Latitude
+
+- Angular unit of measure
+- can use long and lat angles to describe where a point on the map is.
+
+#### Graticule 
+
+- The grid that is defined by the lines of latitude and longitude.
+
+#### Recording Long/Lat Coordinate 
+
+##### DMS notation - Degrees, Minutes, Seconds (°, ',")
+
+This is based on a base 60 system and is an out dated but still used. Degrees is used instead of hours.
+
+ex. 142° 32' 23" = 142 degrees, 32 minutes, 23 seconds. (1 degree = 60 minutes, 1 minute = 60 seconds.)
+
+##### DD notation - decimal based
+
+- Latitude and Longitudes are displayed in a decimal format:
+
+-2.293756, 48.498675 
+
+These are coordinates based on the quadrants of the meridian and equator:
+
+![Pasted image 20230907182302.png](../attachments/Pasted%20image%2020230907182302.png)
+
+based on this system, we would know that the above coordinates would belong somewhere in the top left quadrant.
+
+
+
+
+
+
+
 
 
 

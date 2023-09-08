@@ -11,9 +11,11 @@
             "id": "19c90757d9555ead",
             "type": "leaf",
             "state": {
-              "type": "pdf",
+              "type": "markdown",
               "state": {
-                "file": "GEOG501/Introduction/GEOG501_F2F_Syllabus_Fall2023.pdf"
+                "file": "GEOG501/General Notes.md",
+                "mode": "source",
+                "source": false
               }
             }
           }
@@ -83,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "GEOG501/Introduction/GEOG501_F2F_Syllabus_Fall2023.pdf",
+                "file": "GEOG501/General Notes.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -100,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "GEOG501/Introduction/GEOG501_F2F_Syllabus_Fall2023.pdf",
+                "file": "GEOG501/General Notes.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -123,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "GEOG501/Introduction/GEOG501_F2F_Syllabus_Fall2023.pdf"
+                "file": "GEOG501/General Notes.md"
               }
             }
           }
@@ -144,8 +146,10 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "d542898d1856b3b5",
+  "active": "19c90757d9555ead",
   "lastOpenFiles": [
+    "attachments/Pasted image 20230907182302.png",
+    "GEOG501/Introduction/GEOG501_F2F_Syllabus_Fall2023.pdf",
     "GEOG501/Lab 03/Introduction to Coordinate Systems_Certificate_09072023_Aidan_Brown.pdf",
     "GEOG501/Introduction/Introduction.md",
     "GEOG501/Lab 01/Lab1_Aidan_Brown.md",
@@ -168,13 +172,11 @@
     "attachments/Pasted image 20230907102458.png",
     "GEOG501/Lab 01/Lecture Notes.md",
     "GEOG501/Lab 01/ArcGIS Pro Basics_Certificate_06172023_Aidan_Brown.pdf",
-    "GEOG501/Introduction/GEOG501_F2F_Syllabus_Fall2023.pdf",
     "attachments/Pasted image 20230905111500.png",
     "attachments/Pasted image 20230905111206.png",
     "GEOG501/Introduction/Aidan Brown - ADGISA - Lab 01 - Computer Setup.md",
     "Readings",
     "GEOG501/Lab 02/Getting Started with Data Management_Certificate_09062023_Aidan_Brown.pdf",
-    "GEOG501/Lab 02/Introduction to Spatial Data_Certificate_09062023_Aidan_Brown.pdf",
     "GEOG501/Introduction/Practicum.md",
     "GEOG501/Introduction/Test.md",
     "README.md",
