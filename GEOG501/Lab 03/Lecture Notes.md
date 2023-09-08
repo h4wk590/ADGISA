@@ -37,3 +37,35 @@ It isn't a perfect measurement, but using an ellipsoid we can more accurately de
 - A specific ellipsoid and a point of origin (center of the world or the surface of the world.)
 - Typically no more than two numbers.
 
+## North American Datums
+
+
+- NAD 27 - Great for it's time.
+- NAD 83 - Most widely used.
+- WGS 1984 - GPS data uses this datum.
+
+
+## Earth Coordinate Geometry
+
+"How do we know where we are in the world with coordinates?"
+
+### Coordinate System
+
+- Spherical Coordinate System - coordinates describe locations on the world (lat, long).
+- Planar Coordinate System - Need a projection for two dimensional objects.
+
+## Coordinate System vs Projection
+
+- Planer must have a projection
+- geometric = coordinate system
+
+## Types of projections
+
+- Projection family - shape of the developable surface.
+- Projection Properties - nature of distortions created.
+
+### Projection Families
+
+- Cylindrical Projection.
+- Conical Projection surface.
+- Planar projection surface.
