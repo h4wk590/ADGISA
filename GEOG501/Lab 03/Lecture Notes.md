@@ -69,3 +69,16 @@ It isn't a perfect measurement, but using an ellipsoid we can more accurately de
 - Cylindrical Projection.
 - Conical Projection surface.
 - Planar projection surface.
+
+### Projections and Distortions
+
+Projections will distort one or more of the following map properties:
+
+- Shape
+- Area
+- Distance
+- Direction
+
+- No projections preserves all properties
+
+

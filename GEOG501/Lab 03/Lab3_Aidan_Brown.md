@@ -71,3 +71,32 @@ projections.
 
 ## Deliverable 7
 
+Screen capture of Canada in the Lambert projection, including meaningful symbology as
+described above:
+
+![Pasted image 20230908135725.png](../../attachments/Pasted%20image%2020230908135725.png)
+
+## Deliverable 8
+
+State your chosen area of interest and report the name and complete details of your selected
+coordinate system (copied from ArcGIS):
+
+- Area of Interest: **British Columbia**
+
+
+![Pasted image 20230908142057.png](../../attachments/Pasted%20image%2020230908142057.png)
+
+## Deliverable 9
+
+Separate from the complete technical details, report the following about the coordinate system:
+geodetic datum, family (e.g. conic, cylindrical, planar) and type (e.g. Albers, Lambert, Mercator etc.):
+
+- Geodetic datum: **NAD 1983**.
+- Family: **Conic**.
+- Type: **Albers**.
+
+## Deliverable 10
+
+ Take a clean screen capture of your resulting data view, similar to the one above:
+
+![Pasted image 20230908150247.png](../../attachments/Pasted%20image%2020230908150247.png)
