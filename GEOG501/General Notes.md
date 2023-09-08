@@ -171,6 +171,16 @@ Consists of:
 - Prime meridian
 - Datum that specifies an ellipsoid
 
+## Projection Classes
+
+Developable surfaces (categories of projections). A way of visualizing projections based on how they were created. The 3 typical types of projection classes are:
+
+- **Planer**
+- **Cylindrical**
+- **Conic**
+
+
+
 
 
 
