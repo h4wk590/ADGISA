@@ -191,3 +191,5 @@ Developable surfaces (categories of projections). A way of visualizing projectio
 
 
 
+
+
