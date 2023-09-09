@@ -58,17 +58,32 @@ Report the following details about the coordinate system:
 ## Deliverable 6
 
 Do these projection parameters follow the rules for conic projections? Explain your answer in
-detail (i.e. including any necessary calculations).
+detail (i.e. including any necessary calculations):
 
-- RULES 
+- The central meridian does run through the middle of the region of interest
 
-The central meridian should run through the middle of the region of interest
-• The reference latitude should be placed wherever you think the center of a coordinate system should be
-(usually either at the center or below the bottom of the extent of the geographic features).
-• As a general rule, the two standard parallels should be located approximately 1/6 from the bottom and 1/6
-from the top of the geographic extent of the mapped features. This is known as the “One-Sixth Rule” for conic
-projections.
+I can calculate both of the Standard parallels by first subtracting the standard parallels to get the difference between them:
 
+
+45.5 - 29.5
+= 16.0 degrees
+
+
+Then use the "One-Sixth Rule" to multiple the difference of both standard parallels by 1/6 to get the distance in latitude between the standard parallels:
+
+
+16.0 * 0.1667
+= 2.67 degrees
+
+
+To get the point of reference I can take the sum of both standard parallel values and divide it by 2:
+
+
+45.5 + 29.5 /2
+= 37.5 degrees
+
+
+This point of reference makes sense according the latitudes and longitudes presented in the **latlong** shapefile.
 ## Deliverable 7
 
 Screen capture of Canada in the Lambert projection, including meaningful symbology as
@@ -82,7 +97,6 @@ State your chosen area of interest and report the name and complete details of y
 coordinate system (copied from ArcGIS):
 
 - Area of Interest: **British Columbia**
-
 
 ![Pasted image 20230908142057.png](../../attachments/Pasted%20image%2020230908142057.png)
 
