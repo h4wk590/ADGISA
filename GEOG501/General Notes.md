@@ -1,5 +1,7 @@
 
 
+## General notes from all chapters and lectures to combine information.
+
 ## What is GIS?
 
 - A way to analyze, and Visualize spatial data computationally, usually via maps.
@@ -184,6 +186,29 @@ Developable surfaces (categories of projections). A way of visualizing projectio
 ### Neatline
 
 - A graphical element that frames the map. It's also a property of the map frame in ArcGIS
+
+## Qualitative VS Quantitative Data
+
+
+### Qualitative
+
+Qualitative data can't be measured, but it explains the categorization or the features of the type. For Example a type of **school** could have the following qualitative types of data:
+
+- University/College
+- Secondary School
+- Primary School
+- Kindergarten
+- Special Education
+- Administration
+- Skill Center
+
+### Quantitative
+
+Quantitative data is data showing how much of something exists. It can be measured using a quantity, magnitude, rate. For Example:
+
+- Population density map showing people per square meter.
+
+
 
 
 
