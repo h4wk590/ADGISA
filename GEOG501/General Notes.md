@@ -179,6 +179,14 @@ Developable surfaces (categories of projections). A way of visualizing projectio
 - **Cylindrical**
 - **Conic**
 
+## Cartography
+
+### Neatline
+
+- A graphical element that frames the map. It's also a property of the map frame in ArcGIS
+
+
+
 
 
 

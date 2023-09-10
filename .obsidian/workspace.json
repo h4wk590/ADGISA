@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "GEOG501/Lab 03/Lab3_Aidan_Brown.md",
+                "file": "GEOG501/General Notes.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "GEOG501/Lab 03/Lab3_Aidan_Brown.md",
+                "file": "GEOG501/General Notes.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "GEOG501/Lab 03/Lab3_Aidan_Brown.md",
+                "file": "GEOG501/General Notes.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "GEOG501/Lab 03/Lab3_Aidan_Brown.md"
+                "file": "GEOG501/General Notes.md"
               }
             }
           }
@@ -148,17 +148,19 @@
   },
   "active": "19c90757d9555ead",
   "lastOpenFiles": [
+    "GEOG501/Lab 04/Creating a Map Layout_Certificate_09102023_Aidan_Brown.pdf",
+    "GEOG501/Lab 03/Lecture Notes.md",
+    "GEOG501/Lab 04",
+    "GEOG501/Lab 03/Lab3_Aidan_Brown.md",
     "GEOG501/Lab 03/~$b3_Aidan_Brown.docx",
     "GEOG501/Lab 03/~WRL0002.tmp",
     "GEOG501/Lab 03/~WRD0001.tmp",
     "GEOG501/Lab 03/Lab3_Aidan_Brown.docx",
     "GEOG501/General Notes.md",
-    "GEOG501/Lab 03/Lecture Notes.md",
     "GEOG501/Lab 01/Lecture Notes.md",
     "GEOG501/Lab 02/Lecture Notes.md",
     "GEOG501/Lab 02/Lab2_Aidan_Brown.md",
     "GEOG501/Lab 01/Lab1_Aidan_Brown.md",
-    "GEOG501/Lab 03/Lab3_Aidan_Brown.md",
     "attachments/Pasted image 20230908150247.png",
     "attachments/Pasted image 20230908142057.png",
     "attachments/Pasted image 20230908135725.png",
@@ -175,8 +177,6 @@
     "Readings/Ch2.md",
     "GEOG501/Lab 03/Introduction to Coordinate Systems_Certificate_09072023_Aidan_Brown.pdf",
     "GEOG501/Lab 02/Introduction to Spatial Data_Certificate_09062023_Aidan_Brown.pdf",
-    "GEOG501/Lab 02/Getting Started with Data Management_Certificate_09062023_Aidan_Brown.pdf",
-    "GEOG501/Introduction/GEOG501_F2F_Syllabus_Fall2023.pdf",
     "GEOG501/Introduction/Introduction.md",
     "GEOG501/Introduction/Aidan Brown - ADGISA - Lab 01 - Computer Setup.md",
     "GEOG501/Introduction/Practicum.md",
