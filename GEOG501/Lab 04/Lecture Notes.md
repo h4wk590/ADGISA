@@ -15,3 +15,13 @@ Maps are just visual symbols of our reality on a space.
 - Distance
 - Relationships
 
+## Choropleth Maps
+
+- Used to map percentages (normalized data).
+
+## Proportional Symbol
+
+- Total count, used to view differences between neighbouring entities (between provinces).
+
+
+
