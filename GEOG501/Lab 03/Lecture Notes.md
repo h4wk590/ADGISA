@@ -81,4 +81,30 @@ Projections will distort one or more of the following map properties:
 
 - No projections preserves all properties
 
+## Commonly Used Coordinate Systems
+
+- **Albers Equal Area-Conic** - 2 standard parallels, typically scales at 1:8,000,000
+- **Lambert Conformal Conic** - Conformal, but not equal area, used for continental USA or Canada
+- **Transverse Mercator** - Transverse cylindrical projection, conformal, and shapes and angles within any small area are essentially true. 1:24,000 to 1:250,000
+
+## UTM - Universal Transverse Mercator System
+
+- Universal, works across the globe.
+- Uses Meters as units of measurement.
+- Consists of 60 zones.
+- Only used between 84 north and 80 south
+- Each zone has a central meridian which acts as the longitude of origin.
+- Useful for small areas.
+- Widely used to topographic maps and satellite images.
+
+## Choosing a projection
+
+- Knowing the use case - geometric features
+- Where in the world?
+- Orientation. Some countries are longer than other.
+- How large is it? - Does it fit within the zone of interest?
+
+
+
+
 
