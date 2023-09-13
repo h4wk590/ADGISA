@@ -14,4 +14,4 @@ I chose to use Natural Break as the classification method with the crime type. I
 
 Map layout of crime rates in Toronto neighborhoods:
 
-![[Layout 1.jpg]]
+![[Toronto Thefts 2.jpg]]
