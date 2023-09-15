@@ -11,11 +11,9 @@
             "id": "19c90757d9555ead",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "pdf",
               "state": {
-                "file": "GEOG501/Lab 05/Lecture Notes.md",
-                "mode": "source",
-                "source": false
+                "file": "GEOG501/Lab 04/Lab4Map_Aidan_Brown.pdf"
               }
             }
           }
@@ -85,7 +83,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "GEOG501/Lab 05/Lecture Notes.md",
+                "file": "GEOG501/Lab 04/Lab4Map_Aidan_Brown.pdf",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +100,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "GEOG501/Lab 05/Lecture Notes.md",
+                "file": "GEOG501/Lab 04/Lab4Map_Aidan_Brown.pdf",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +123,17 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "GEOG501/Lab 05/Lecture Notes.md"
+                "file": "GEOG501/Lab 04/Lab4Map_Aidan_Brown.pdf"
+              }
+            }
+          },
+          {
+            "id": "8bec328ce016996c",
+            "type": "leaf",
+            "state": {
+              "type": "all-properties",
+              "state": {
+                "sortOrder": "frequency"
               }
             }
           }
@@ -146,39 +154,41 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "19c90757d9555ead",
+  "active": "d542898d1856b3b5",
   "lastOpenFiles": [
+    "GEOG501/Lab 06/Displaying Coordinate Data on a Map_Certificate_09142023_Aidan_Brown.pdf",
+    "GEOG501/Lab 06/Displaying Coordinate Data on a Map_Certificate_09142023.pdf",
+    "GEOG501/Lab 06",
     "GEOG501/Lab 04/Lab4_Aidan_Brown.md",
+    "GEOG501/Lab 05/Lab05_Aidan_Brown.md",
+    "GEOG501/Lab 05/~$b05_Aidan_Brown.docx",
+    "GEOG501/Lab 05/~WRL0002.tmp",
+    "GEOG501/Lab 05/~WRD0001.tmp",
+    "GEOG501/Lab 05/Lab05_Aidan_Brown.docx",
+    "attachments/Pasted image 20230914134254.png",
+    "attachments/Pasted image 20230914130713.png",
     "GEOG501/Lab 05/Lecture Notes.md",
+    "GEOG501/Lab 03/Lab3_Aidan_Brown.md",
+    "attachments/Pasted image 20230914120253.png",
+    "attachments/Pasted image 20230914115849.png",
+    "attachments/Pasted image 20230914114803.png",
     "GEOG501/Lab 04/Lab4Map_Aidan_Brown.pdf",
     "GEOG501/Lab 04/Layout.pdf",
     "GEOG501/Lab 04/~WRL0002.tmp",
     "GEOG501/Lab 04/~WRD0001.tmp",
-    "GEOG501/Lab 04/~$b4_Aidan_Brown.docx",
     "attachments/Toronto Thefts 2.jpg",
     "attachments/Toronto Thefts 1.jpg",
     "attachments/Layout 1.jpg",
     "attachments/Layout.jpg",
-    "GEOG501/Lab 04/Creating a Map Layout_Certificate_09102023_Aidan_Brown.pdf",
-    "GEOG501/Lab 04/Labeling Map Features_Certificate_09112023.pdf_Aidan_Brown.pdf",
-    "GEOG501/Lab 04/Symbolizing Map Layers_Certificate_09112023.pdf_Aidan_Brown.pdf",
     "GEOG501/Lab 04/Lecture Notes.md",
     "attachments/Toronto Thefts.jpg",
     "GEOG501/Lab 05/EsriTraining5_Aidan_Brown.md",
-    "GEOG501/Lab 05/Editing Basics in ArcGIS Pro_Certificate_09122023_Aidan_Brown.pdf",
-    "GEOG501/Lab 05",
-    "GEOG501/Lab 04/Toronto Thefts.jpg",
-    "GEOG501/Lab 03/Lab3_Aidan_Brown.md",
     "GEOG501/Lab 03/Lecture Notes.md",
     "GEOG501/General Notes.md",
     "GEOG501/Lab 02/Lab2_Aidan_Brown.md",
-    "attachments/Pasted image 20230911222917.png",
-    "attachments/Pasted image 20230911222611.png",
     "GEOG501/Lab 01/Lecture Notes.md",
     "GEOG501/Lab 02/Lecture Notes.md",
     "GEOG501/Lab 01/Lab1_Aidan_Brown.md",
-    "attachments/Pasted image 20230908150247.png",
-    "attachments/Pasted image 20230908142057.png",
     "Readings/Ch2.md",
     "GEOG501/Introduction/Introduction.md",
     "GEOG501/Introduction/Aidan Brown - ADGISA - Lab 01 - Computer Setup.md",
