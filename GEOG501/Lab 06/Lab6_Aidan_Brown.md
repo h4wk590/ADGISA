@@ -24,15 +24,30 @@ Many points of travel are observed on the landmasses, this could indicate the be
 What distance did each bear travel over the time period considered, from October 2002 to
 February 2004?
 
-- Yena traveled 3705 KM.
-- Yana traveled 1637 KM
+- Yena traveled **3705 KM**.
+- Yana traveled **1637 KM**.
 
 ## Deliverable 4
 
+Based on the fields for the address components in the reference data, which geocoding style is
+best to use? Explain your answer.
 
+Using **US Street address dual ranges** (Street Address) would best suit the reference data for this example, as the reference data provides some information about address ranges along streets. Furthermore, there is specific **street direction**, and **street numbers** components, there will need to be geocoordinates for each side of a polyline to indicate where a specific address will be located.   
 
 
 ## Deliverable 5
+
+Screen capture of your address locator settings. Make sure to show a screen capture of the
+style (under About the locator) and the field map showing the fields (under Reference data tables):
+
+![Pasted image 20230915164031.png](../../attachments/Pasted%20image%2020230915164031.png)
+
+![Pasted image 20230915164636.png](../../attachments/Pasted%20image%2020230915164636.png)
+
+## Deliverable 6
+
+
+
 
 
 
