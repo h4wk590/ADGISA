@@ -8,9 +8,9 @@ Screen capture(s) of the movement paths for Yana and Lena; include the original 
 and a basemap:
 
 
-![Pasted image 20230915105712.png](../../attachments/Pasted%20image%2020230915105712.png)
+![Pasted image 20230915165349.png](../../attachments/Pasted%20image%2020230915165349.png)
 
-![Pasted image 20230915110009.png](../../attachments/Pasted%20image%2020230915110009.png)
+![Pasted image 20230915165307.png](../../attachments/Pasted%20image%2020230915165307.png)
 
 ## Deliverable 2
 
