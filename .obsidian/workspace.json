@@ -11,9 +11,11 @@
             "id": "19c90757d9555ead",
             "type": "leaf",
             "state": {
-              "type": "pdf",
+              "type": "markdown",
               "state": {
-                "file": "GEOG501/Lab 04/Lab4Map_Aidan_Brown.pdf"
+                "file": "GEOG501/General Notes.md",
+                "mode": "source",
+                "source": false
               }
             }
           }
@@ -83,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "GEOG501/Lab 04/Lab4Map_Aidan_Brown.pdf",
+                "file": "GEOG501/General Notes.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -100,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "GEOG501/Lab 04/Lab4Map_Aidan_Brown.pdf",
+                "file": "GEOG501/General Notes.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -123,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "GEOG501/Lab 04/Lab4Map_Aidan_Brown.pdf"
+                "file": "GEOG501/General Notes.md"
               }
             }
           },
@@ -154,8 +156,10 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "d542898d1856b3b5",
+  "active": "19c90757d9555ead",
   "lastOpenFiles": [
+    "GEOG501/Lab 04/Lab4Map_Aidan_Brown.pdf",
+    "GEOG501/Lab 06/Mapping Addresses and Places_Certificate_09142023_Aidan_Brown.pdf",
     "GEOG501/Lab 06/Displaying Coordinate Data on a Map_Certificate_09142023_Aidan_Brown.pdf",
     "GEOG501/Lab 06/Displaying Coordinate Data on a Map_Certificate_09142023.pdf",
     "GEOG501/Lab 06",
@@ -172,10 +176,8 @@
     "attachments/Pasted image 20230914120253.png",
     "attachments/Pasted image 20230914115849.png",
     "attachments/Pasted image 20230914114803.png",
-    "GEOG501/Lab 04/Lab4Map_Aidan_Brown.pdf",
     "GEOG501/Lab 04/Layout.pdf",
     "GEOG501/Lab 04/~WRL0002.tmp",
-    "GEOG501/Lab 04/~WRD0001.tmp",
     "attachments/Toronto Thefts 2.jpg",
     "attachments/Toronto Thefts 1.jpg",
     "attachments/Layout 1.jpg",
