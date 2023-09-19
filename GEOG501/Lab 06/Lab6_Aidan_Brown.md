@@ -49,8 +49,9 @@ style (under About the locator) and the field map showing the fields (under Refe
 How many drug crime events were matched or tied using the default settings? How many remain
 unmatched?
 
-- ADDRESS, CITY, and STATE were matched (3).
-- OID, CSEDAT, OFFENSE, and CRIME_TYPE where unmatched (4).
+- 1080 matched.
+- 1 Tied.
+- 690 Unmatched.
 
 ## Deliverable 7
 
@@ -63,8 +64,8 @@ Screen capture of your map with the centerlines and the geocoded drug crime loca
 
 For each of the following unmatched addresses, what was the reason no matches were found:
 
-- **2700 TRAMWAY VISTA BLVD NE** - The Centerlines table did not include this address so it was not found by any matches when geocoding.
-- **500 COLE LA SW** - This could be an error in the address number in the drug crimes data. As looking in the attribute table from the reference data, COLE LA starts at 6200, and ends at 6299.
+- **2700 TRAMWAY VISTA BLVD NE** - The Centerlines table did not include this address as it did not include the number 2700.
+- **500 COLE LA SW** - Spelled 'COAL' in the attribute table.
 - **7200 MIAMI ST NE** - Although MIAMI RD exists in the reference data table, there is no **MIAMI ST** anywhere found in the reference data.
 - **100 KATHRYN AV SE** - There are 2 entries in the reference data table without any data, in the house number columns. These two could be where 100 KATHRYN AV SE would reside, but without the exact numbers it was unmatched.
 - **2957 ARENAL ST SW** - Only ARENAL RD exists in the reference data, it was unmatched because ARENAL ST does not exist in the reference data.
