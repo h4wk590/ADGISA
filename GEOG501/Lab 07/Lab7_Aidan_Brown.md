@@ -92,8 +92,15 @@ are there?
 
 ![Pasted image 20230919161911.png](../../attachments/Pasted%20image%2020230919161911.png)
 
+## Deliverable 12
+
+![Pasted image 20230919164906.png](../../attachments/Pasted%20image%2020230919164906.png)
+
+## Deliverable 13
 
 
+- Maximum bus route is the Venom Express, the route length is 25289.
+- Average bus length is 6646.
 
 
 
