@@ -28,10 +28,10 @@ spatial join? Report the names of these five hospitals and the number of people 
 Five largest hospitals based off the distance results:
 
 - **McKennan Hospital** - 144,713 people served.
-- **Bennet Clarkson Hospital** - 88,677 people served.
-- **Saint Lukes Hospital** - 51,284 people served.
--  **Saint Ann Hospital** - 35,072 - people served.
-- **Canton-Inwood Hospital** - 25,396 people served.
+- **Saint Ann Hospital** - 89099 people served.
+- **Bennett Clarkson Hospital** - 88677 people served.
+-  **Saint Joseph Hospital** - 73862 people served.
+- **Canton-Inwood Hospital** - 69946 people served.
 
 To get this data I first sorted the distance spatial join attributes from the previous deliverable in the population field to descending in order to get the most people per county. Then going to the hospital field to get the names of the top 5. two entries for Saint Luke's hospital were in the top 5 so I added both population fields together.
 
@@ -57,6 +57,28 @@ Assuming that only a certain amount of hospitals are well equipped for certain m
 ## Deliverable 5
 
 
+
+| Catchment | Name | Total Length of Stream (in km, rounded to one decimal.) |
+| --------| ---- | ---------------| 
+| 1 | Alder | 80.0 KM |
+| 2 | Lower Big wall | 68.0 KM |
+| 3 | Middle Big wall |49.0 KM |
+| 4 | Swale | 44.0 KM |
+| 5 | Upper Skookum | 68.0 KM |
+| 6 | Upper Wilson |76.0 KM |
+
+
+## Deliverable 6
+
+| Catchment | Name | Total Area (in square km, rounded to one decimal) | 
+| -------- | --------| --------------------------| ---------| ---------| -------- | ---------| -------- |
+| | | Non-forest | Ponderosa Pine | Douglas Fir (mixed) | Douglas Fir (pure) | Oregon White Oak | Western Larch |
+| 1. | Alder | 17.0 km2 | 
+| 2. | Lower Big wall |
+| 3. | Middle Big wall |
+| 4. | Swale |
+| 5. | Upper Skookum |
+| 6. | Upper Wilson |
 
 
 
