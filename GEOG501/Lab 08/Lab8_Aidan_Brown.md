@@ -1,6 +1,6 @@
 
 # Aidan Brown
-# GEOG 501
+# GEOG 501 Fall 2023
 
 
 ## Deliverable 1
@@ -28,10 +28,10 @@ spatial join? Report the names of these five hospitals and the number of people 
 Five largest hospitals based off the distance results:
 
 - **McKennan Hospital** - 144,713 people served.
-- **Saint Ann Hospital** - 89099 people served.
-- **Bennett Clarkson Hospital** - 88677 people served.
--  **Saint Joseph Hospital** - 73862 people served.
-- **Canton-Inwood Hospital** - 69946 people served.
+- **Saint Ann Hospital** - 89,099 people served.
+- **Bennett Clarkson Hospital** - 88,677 people served.
+-  **Saint Joseph Hospital** - 73,862 people served.
+- **Canton-Inwood Hospital** - 69,946 people served.
 
 To get this data I first sorted the distance spatial join attributes from the previous deliverable in the population field to descending in order to get the most people per county. Then going to the hospital field to get the names of the top 5. two entries for Saint Luke's hospital were in the top 5 so I added both population fields together.
 
@@ -73,13 +73,25 @@ Assuming that only a certain amount of hospitals are well equipped for certain m
 | Catchment | Name | Total Area (in square km, rounded to one decimal) | 
 | -------- | --------| --------------------------| ---------| ---------| -------- | ---------| -------- |
 | | | Non-forest | Ponderosa Pine | Douglas Fir (mixed) | Douglas Fir (pure) | Oregon White Oak | Western Larch |
-| 1. | Alder | 17.0 km2 | 
-| 2. | Lower Big wall |
-| 3. | Middle Big wall |
-| 4. | Swale |
-| 5. | Upper Skookum |
-| 6. | Upper Wilson |
+| 1. | Alder | 17.0 km2 | 14.1 km2 | 13.1 km2 | 0 km2 | 13.1 km2 | 33.3 km2 |
+| 2. | Lower Big wall | 0 km2 | 5.0 km2 | 61.0 km2 | 0 km2 |  35.4 km2 |0 km2
+| 3. | Middle Big wall | 0.5 km2 | 14.0 km2 | 0 km2 | 0 km2 | 0 km2 | 9.0 km2 |
+| 4. | Swale | 0 km2 | 30.6 km2 | 10.0 km2 | 0 km2 | 3.0 km2 | 10.0 km2 | 
+| 5. | Upper Skookum |12.0 km2 | 71.0 km2 | 0 km2 | 0 km2 | 7.0 km2 | 0 km2 |
+| 6. | Upper Wilson | 1.0 km2 | 79.0 km2 | 6.0 km2 | 0 km2 | 0 km2 | 22.0 km2 |
 
 
+## Deliverable 7
 
+Describe how you carried out your analysis for Deliverable 6:
 
+- Used the Intersect tool with the input values being the **forest**and  **basins** feature classes.
+- Created a new double numerical field in the new feature classes attribute table called **length_km2**.
+- Used the **Calculate Geometry** tool on the empty field and specified the inputs to be the new feature class, using the current maps coordinate system, and selecting the **Area** option for units.
+- Now that the values were in the correct units, I used the **Summarize** tool to put all individual values into a summarized field by the **SUBWAT_NAM** field.
+- In the new exported summarized table I could **select by attribute** the subwat name and search within the attribute table to find the number code associated to the tree species.
+
+## Deliverable 8
+
+The buffer zone of 150 meters around the streams in the Wall Creek watershed is  4807.8 square km (one decimal)
+in size and contains 23.8 % (one decimal) forest cover
