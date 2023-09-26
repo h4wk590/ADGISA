@@ -85,7 +85,7 @@ Assuming that only a certain amount of hospitals are well equipped for certain m
 
 Describe how you carried out your analysis for Deliverable 6:
 
-- Used the Intersect tool with the input values being the **forest**and  **basins** feature classes.
+- Used the Intersect tool with the input values being the **forest** and **basins** feature classes.
 - Created a new double numerical field in the new feature classes attribute table called **length_km2**.
 - Used the **Calculate Geometry** tool on the empty field and specified the inputs to be the new feature class, using the current maps coordinate system, and selecting the **Area** option for units.
 - Now that the values were in the correct units, I used the **Summarize** tool to put all individual values into a summarized field by the **SUBWAT_NAM** field.
