@@ -1,0 +1,59 @@
+
+# Aidan Brown
+# GEOG 523 Fall 2023
+
+
+## Question 1: 
+
+On what date (y/m/d) was this image acquired?
+
+- 1999/09/21/
+
+
+Question 2: What is the coordinate system for this image? More specifically, what are the projection and its parameters, what is the datum, and what are the imagery’s coordinate bounds (in the Geographic coordinates)?
+
+- Projection: UTM
+- Datum: NAD83
+- Coordinate Bounds: 
+
+LL latitude - 048.248639696
+LL longitude - -125.917169
+UL latitude - 049.819597571
+UL longitude - -125.3179582
+LR latitude - 047.896828387
+LR longitude - -123.5026422
+UR latitude - 049.455307073
+UR longitude - -122.8331045
+
+## Question 3: 
+
+What are the dimensions of a multispectral band? How many lines (rows) and pixels (columns)?
+
+- Number_of_pixels_multi - 7690
+- Number_of_lines_multi - 7346
+
+
+## Question 4: 
+
+What approximate ground area (in sq. km including null pixels) does this Landsat image cover? Show your calculations. Tip: Open any multispectral band of 048026_0100_990921_l7_X_utm10.tif in ArcGIS and examine grid cell size or spatial resolution parameter for a pixel from the Layer Properties dialog.
+
+Columns * Rows  * Cell Size * 0.3 (7690 * 7344 * 30 * 30 ) = 
+
+**50340 km2**
+
+## Question 5:
+
+What is the approximate file size of the L8_Island.pix file you created from the multiple Landsat 8 multispectral GEOTIFF files? How does it compare to the L7_Island.pix file you created? What would explain such a large discrepancy between the file sizes?
+
+- The file size of L8_Island.pix is approximately 1GB,  Whereas L7_Island.pix is approximately 340 MB. 
+- L8 being a lot newer than L7 would improve image quality as technology advances. This would improve the spectral bands of L8 and provide more image details, resulting in larger file sizes.
+
+
+## Question 6:
+
+What is the common name for the combination of bands and what are the computer display colors that are now  What is the common name for the combination of bands and what are the computer display colors that are now loaded?
+
+
+- Common Colour Name: **True Colour Composite**
+- Band 3 is RED, Band 2 is GREEN, Band 1 is BLUE.
+
