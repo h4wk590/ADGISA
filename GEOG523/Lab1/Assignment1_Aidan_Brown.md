@@ -54,6 +54,26 @@ What is the approximate file size of the L8_Island.pix file you created from the
 What is the common name for the combination of bands and what are the computer display colors that are now  What is the common name for the combination of bands and what are the computer display colors that are now loaded?
 
 
-- Common Colour Name: **True Colour Composite**
+- Common colour name: **True Colour Composite**
 - Band 3 is RED, Band 2 is GREEN, Band 1 is BLUE.
 
+## Question 7:
+
+What is the common name for the combination of bands and what are the computer display colors that are now loaded?
+
+-  Common colour name: Panchromatic
+- RGB are within the 4th channel. 
+
+## Question 8:
+
+What is the common name for the combination of bands and what are the computer display colors that are now shown?
+
+- Common colour name: **False Colour Composite**.
+- Band 4 is red, Band 3 is Green, Band 2 is blue.
+
+## Question 9:
+
+What differences (at least two) do you notice between these two versions (Band 3-2-1 and Band 4-3-2) of the image?
+
+- **Viewability between the two as a user.** Band 3-2-1 displays colour accurate representations of what the colours look in reality.
+- 
