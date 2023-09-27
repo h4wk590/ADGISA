@@ -46,12 +46,16 @@
 
 7. Construct a Class Diagram for a car-insurance company that has a set of customers, each of whom owns one or more cars. Each car has associated with it zero or more recorded accidents. Use the classes ACCIDENT, CAR and CUSTOMER. No attributes are necessary for this question.
 
+![Pasted image 20230927121809.png](../../attachments/Pasted%20image%2020230927121809.png)
 
+- A Customer can have multiple cars, or have zero.
+- Cars can be involved in multiple accidents, or none at all.
+- Individual cars are owned by 1 customer.
 
 ## PART B
 
 
-
+8.  
 
 
 
