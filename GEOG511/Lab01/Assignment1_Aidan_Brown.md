@@ -55,7 +55,16 @@
 ## PART B
 
 
-8.  
+8.  Construct a Class Diagram for the relationship between Continents and Countries, adding at least two attributes to the diagram. Document any assumptions which governed your mode.
+
+![Pasted image 20231003121817.png](../../attachments/Pasted%20image%2020231003121817.png)
+
+- Each country and each continent have a name, therefore a relationship
+- Each country and each continent also have boundaries(borders), each country has to have a boundary, and each continent can have a boundary.
+
+9.  Create a Class Diagram for a database to schedule classrooms for final exams, including object classes, attributes, associations and multiplicity. State any assumptions which guided your design.
+
+
 
 
 
