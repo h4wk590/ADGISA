@@ -65,6 +65,14 @@ identifying Sub1999-1990-pixel values, provide at least three different examples
 Identify Sub1999-1990-pixel values over the deep ocean surface. What factors might cause minor  
 overall difference in brightness between the two multi-date images?
 
+- Clouds may get in the way of the remote sensor when gathering images.
+- Ocean currents, may cause variations because of forming waves.
+- Day time versus night time sensing may cause slight variations.
+
+## Question 8
+
+
+
 
 
 
