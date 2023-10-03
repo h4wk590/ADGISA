@@ -76,4 +76,34 @@ What is the common name for the combination of bands and what are the computer d
 What differences (at least two) do you notice between these two versions (Band 3-2-1 and Band 4-3-2) of the image?
 
 - **Viewability between the two as a user.** Band 3-2-1 displays colour accurate representations of what the colours look in reality.
-- 
+- Band 4-3-2 uses Near infrared in this case, so the extent of this band is generally for a more analytical view of the map, whereas band 3-2-1 is for viewability.
+
+
+## Question 10
+
+Briefly describe a color and band combination (other than those used above) that you feel provides a useful depiction of the study area and explain why.
+
+- Band 6-3-1
+
+depicts the bodies of water as emphasized, and also very much outlines the city structures and roads against the natural geology and forested area around the area,
+
+
+## Question 11
+
+What is the common name for the combination of bands and what are the computer display colors that are now loaded?
+
+- The common name for the combination: **True Colour Composite**.
+- (3-2-1 RGB) resembles close to the human eye. Forested/plant areas being green, geology and man-made structures are defined as brown and white, water is blue.
+
+## Question 12
+
+Experiment with displaying the two images at different zoom levels. What do you think is the largest scale at  which each image (Landsat 7 and QuickBird) can be displayed and still being useful? Tip: you can see a zoom level at the left corner of bottom information bar:
+
+- **QuickBird:** 52,500 scale size has the best viewability of the entire map extent, going any further doesn't capture the entire map extent.
+- **L7_Nanaimo**: 420,000 scale size has the best viewability for this extent, increasing the scale too little or too much here results in a lot of image distortion.
+
+
+
+
+
+

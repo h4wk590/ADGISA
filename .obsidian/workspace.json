@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "GEOG531/lab1/Assignment1_Aidan_Brown.md",
+                "file": "GEOG523/Lab2/Lecture Notes.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "GEOG531/lab1/Assignment1_Aidan_Brown.md",
+                "file": "GEOG523/Lab2/Lecture Notes.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "GEOG531/lab1/Assignment1_Aidan_Brown.md",
+                "file": "GEOG523/Lab2/Lecture Notes.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "GEOG531/lab1/Assignment1_Aidan_Brown.md"
+                "file": "GEOG523/Lab2/Lecture Notes.md"
               }
             }
           },
@@ -158,26 +158,26 @@
   },
   "active": "19c90757d9555ead",
   "lastOpenFiles": [
+    "GEOG521/lab01/Displaying Raster Data in ArcGIS_Certificate_09282023_Aidan_Brown.pdf",
+    "GEOG523/Lab2/Lecture Notes.md",
+    "GEOG523/Lab2",
+    "GEOG523/Lab1/Assignment1_Aidan_Brown.md",
+    "GEOG523/Lab1/~$signment1_Aidan_Brown.docx",
+    "GEOG523/Lab1/~WRL0002.tmp",
+    "GEOG523/Lab1/~WRD0001.tmp",
+    "GEOG523/Lab1/Assignment1_Aidan_Brown.docx",
+    "GEOG521/lab01/Lab1_Aidan_Brown.md",
+    "GEOG521/lab01/Lecture Notes.md",
+    "GEOG521/lab01/Processing Raster Data Using ArcGIS Pro_Certificate_09282023_Aidan_Brown.pdf",
+    "GEOG531/lab1/Assignment1_Aidan_Brown.md",
     "GEOG531/lab1/GEOG531_Assignment1_AIdan_Brown.zip",
     "GEOG531/lab1/Miles_To_Kilo_AIdan_Brown.zip",
     "GEOG531/lab1/~$signment1_Aidan_Brown.docx",
-    "GEOG531/lab1/~WRL0002.tmp",
-    "GEOG531/lab1/~WRD0001.tmp",
-    "GEOG531/lab1/Assignment1_Aidan_Brown.docx",
-    "GEOG531/lab1/Miles_To_Kilo_AIdan_Brown.py",
-    "GEOG531/lab1/Name_Length_Aidan_Brown.py",
-    "GEOG531/lab1/Tutorial2_Aidan_Brown.py",
-    "GEOG531/lab1/test.py",
-    "GEOG531/lab1/Tutorial1_Aidan_Brown.py",
-    "GEOG521/lab01/Lab1_Aidan_Brown.md",
-    "GEOG531/lab1/Assignment1_Aidan_Brown.md",
-    "GEOG521/lab01/Lecture Notes.md",
     "GEOG511/Lab01/Assignment1_Aidan_Brown.md",
     "attachments/Pasted image 20230927121809.png",
     "attachments/Pasted image 20230927111917.png",
     "attachments/Pasted image 20230927110617.png",
     "GEOG511/Lab01/Lecture Notes.md",
-    "GEOG523/Lab1/Assignment1_Aidan_Brown.md",
     "GEOG523/Lab1/Lecture Notes.md",
     "attachments/Pasted image 20230926092154.png",
     "GEOG501/General Notes.md",
@@ -202,7 +202,6 @@
     "GEOG501/Lab 07/Lecture Notes.md",
     "GEOG501/Lab 06/Lab6_Aidan_Brown.md",
     "GEOG501/Lab 07/EsriTraining_Aidan_Brown.md",
-    "GEOG501/Lab 06/Lecture Notes.md",
-    "GEOG501/Lab 04/Lab4_Aidan_Brown.md"
+    "GEOG501/Lab 06/Lecture Notes.md"
   ]
 }

@@ -38,3 +38,4 @@ btnCalculate .place(x=85, y=70)
 
 # Main loop of program
 FrmNameLength.mainloop()
+
