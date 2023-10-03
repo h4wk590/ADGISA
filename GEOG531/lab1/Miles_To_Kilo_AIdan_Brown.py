@@ -39,6 +39,7 @@ def calculate_Click():
     fltKm = float(txtMiles.get()) * 1.6
     txtKm.delete(0, tk.END)
     txtKm.insert(0, fltKm)
+    txtKm.config(fg="Blue") # Add blue coloured text to output
 
 
 # Calculate button to call calculate_Click function
