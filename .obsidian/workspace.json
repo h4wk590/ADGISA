@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "GEOG523/Lab2/Lecture Notes.md",
+                "file": "GEOG523/Lab2/Assignment2_Aidan_Brown.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "GEOG523/Lab2/Lecture Notes.md",
+                "file": "GEOG523/Lab2/Assignment2_Aidan_Brown.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "GEOG523/Lab2/Lecture Notes.md",
+                "file": "GEOG523/Lab2/Assignment2_Aidan_Brown.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "GEOG523/Lab2/Lecture Notes.md"
+                "file": "GEOG523/Lab2/Assignment2_Aidan_Brown.md"
               }
             }
           },
@@ -156,13 +156,14 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "d542898d1856b3b5",
+  "active": "19c90757d9555ead",
   "lastOpenFiles": [
+    "GEOG523/Lab2/Lecture Notes.md",
+    "GEOG523/Lab2/Assignment2_Aidan_Brown.md",
     "GEOG531/Introduction/GEOG 531 SyllabusF2F.pdf",
     "GEOG531/Introduction",
     "GEOG531/New folder",
     "GEOG521/lab01/Displaying Raster Data in ArcGIS_Certificate_09282023_Aidan_Brown.pdf",
-    "GEOG523/Lab2/Lecture Notes.md",
     "GEOG523/Lab2",
     "GEOG523/Lab1/Assignment1_Aidan_Brown.md",
     "GEOG523/Lab1/~$signment1_Aidan_Brown.docx",
@@ -173,7 +174,6 @@
     "GEOG521/lab01/Lecture Notes.md",
     "GEOG521/lab01/Processing Raster Data Using ArcGIS Pro_Certificate_09282023_Aidan_Brown.pdf",
     "GEOG531/lab1/Assignment1_Aidan_Brown.md",
-    "GEOG531/lab1/GEOG531_Assignment1_AIdan_Brown.zip",
     "GEOG511/Lab01/Assignment1_Aidan_Brown.md",
     "attachments/Pasted image 20230927121809.png",
     "attachments/Pasted image 20230927111917.png",
