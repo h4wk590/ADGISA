@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "GEOG511/Lab01/Lecture Notes.md",
+                "file": "GEOG521/lab01/Lab1_Aidan_Brown.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "GEOG511/Lab01/Lecture Notes.md",
+                "file": "GEOG521/lab01/Lab1_Aidan_Brown.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "GEOG511/Lab01/Lecture Notes.md",
+                "file": "GEOG521/lab01/Lab1_Aidan_Brown.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "GEOG511/Lab01/Lecture Notes.md"
+                "file": "GEOG521/lab01/Lab1_Aidan_Brown.md"
               }
             }
           },
@@ -159,7 +159,19 @@
   "active": "19c90757d9555ead",
   "lastOpenFiles": [
     "GEOG511/Lab01/Assignment1_Aidan_Brown.md",
+    "GEOG511/Lab01/Lecture Notes.md",
+    "GEOG521/lab01/Lecture Notes.md",
+    "GEOG521/lab01/Lab1_Aidan_Brown.md",
+    "GEOG511/Lab02/Lecture Notes.md",
+    "GEOG511/Lab02",
+    "GEOG511/Lab01/~$signment1_Aidan_Brown.docx",
+    "GEOG511/Lab01/~WRL0002.tmp",
+    "GEOG511/Lab01/~WRD0001.tmp",
+    "GEOG511/Lab01/Assignment1_Aidan_Brown.docx",
+    "attachments/Pasted image 20231003152655.png",
+    "attachments/Pasted image 20231003150927.png",
     "GEOG523/Lab2/Assignment2_Aidan_Brown.md",
+    "attachments/Pasted image 20231003143847.png",
     "attachments/Pasted image 20231003122923.png",
     "attachments/Pasted image 20231003121817.png",
     "attachments/Pasted image 20231003121551.png",
@@ -170,21 +182,12 @@
     "GEOG531/Introduction/GEOG 531 SyllabusF2F.pdf",
     "GEOG531/Introduction",
     "GEOG531/New folder",
-    "GEOG521/lab01/Displaying Raster Data in ArcGIS_Certificate_09282023_Aidan_Brown.pdf",
-    "GEOG523/Lab2",
     "GEOG523/Lab1/Assignment1_Aidan_Brown.md",
-    "GEOG523/Lab1/~$signment1_Aidan_Brown.docx",
-    "GEOG523/Lab1/~WRL0002.tmp",
-    "GEOG523/Lab1/~WRD0001.tmp",
-    "GEOG521/lab01/Lab1_Aidan_Brown.md",
-    "GEOG521/lab01/Lecture Notes.md",
     "GEOG531/lab1/Assignment1_Aidan_Brown.md",
     "attachments/Pasted image 20230927121809.png",
     "attachments/Pasted image 20230927111917.png",
     "attachments/Pasted image 20230927110617.png",
-    "GEOG511/Lab01/Lecture Notes.md",
     "GEOG523/Lab1/Lecture Notes.md",
-    "attachments/Pasted image 20230926092154.png",
     "GEOG501/General Notes.md",
     "GEOG501/Lab 05/Lecture Notes.md",
     "GEOG501/Lab 05/EsriTraining5_Aidan_Brown.md",
@@ -198,8 +201,6 @@
     "GEOG501/Lab 08/Lecture Notes.md",
     "GEOG501/Exam/Exam Preview.md",
     "GEOG501/Lab 08.md",
-    "attachments/Pasted image 20230919164906.png",
-    "attachments/Pasted image 20230919161911.png",
     "GEOG501/Lab 07/Lecture Notes.md",
     "GEOG501/Lab 06/Lab6_Aidan_Brown.md",
     "GEOG501/Lab 07/EsriTraining_Aidan_Brown.md"

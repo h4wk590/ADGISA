@@ -62,8 +62,30 @@
 - Each country and each continent have a name, therefore a relationship
 - Each country and each continent also have boundaries(borders), each country has to have a boundary, and each continent can have a boundary.
 
+
 9.  Create a Class Diagram for a database to schedule classrooms for final exams, including object classes, attributes, associations and multiplicity. State any assumptions which guided your design.
 
+![Pasted image 20231003143847.png](../../attachments/Pasted%20image%2020231003143847.png)
+
+- The exam table is the focal point for this database design.
+- It needs the course that will be taken, as well as what room the exam will take place.
+- There can only be one exam per course, but there is multiple courses that have exams.
+- There can be multiple rooms for exams, but only 1 exam per room.
+
+10. 10. Design a database which could allow us to examine issues relating to health and employment. Such a database is central to understanding how and why employment and health problems are different for women and men.
+
+![Pasted image 20231003150927.png](../../attachments/Pasted%20image%2020231003150927.png)
+
+People can have many jobs over time, and can have many health problems. There are also many health problems that a person could have so I chose to use many to many for both **Health Problems** and **Jobs** I created a new table called **Health Record** to store the health problem issue, and the persons name for the record. I added a new attribute called **Province** within the **People** table to store the current province that they are living in.
+ 
+11. 
+
+![Pasted image 20231003152655.png](../../attachments/Pasted%20image%2020231003152655.png)
+
+
+- **Park** is one to many with Facilities as 1 park can have many facilities within it.
+- There can be many staff performing maintenance on many facilities.
+- There can be many staff per park, but 1 park for many staff.
 
 
 
