@@ -24,3 +24,15 @@ obtained your answer.
 
 ## Deliverable 3
 
+I used **Raster Calculator** with the inputs as:
+
+elevation >= 1200 & <=1600, Conifers == 1, Limegrid == 1.
+
+Because Conifers and Limegrid are both Boolean values, any potential snail habitat should theoretically be within the elevation range where each of these conditions is true.
+
+## Deliverable 4
+
+![Pasted image 20231005135527.png](../../attachments/Pasted%20image%2020231005135527.png)
+
+
+
