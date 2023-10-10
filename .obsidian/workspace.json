@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "GEOG531/lab2/lab2_Aidan_Brown.md",
+                "file": "GEOG523/Lab3/Assignment3_Aidan_Brown.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "GEOG531/lab2/lab2_Aidan_Brown.md",
+                "file": "GEOG523/Lab3/Assignment3_Aidan_Brown.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "GEOG531/lab2/lab2_Aidan_Brown.md",
+                "file": "GEOG523/Lab3/Assignment3_Aidan_Brown.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "GEOG531/lab2/lab2_Aidan_Brown.md"
+                "file": "GEOG523/Lab3/Assignment3_Aidan_Brown.md"
               }
             }
           },
@@ -158,37 +158,38 @@
   },
   "active": "19c90757d9555ead",
   "lastOpenFiles": [
+    "GEOG523/Lab2/Assignment2_Aidan_Brown.md",
+    "GEOG523/Lab3/Assignment3_Aidan_Brown.md",
+    "attachments/Pasted image 20231010102736.png",
+    "GEOG523/Lab2/Performing Supervised Object-Based Image Classification_Certificate_10102023_Aidan_Brown.pdf",
+    "GEOG521/lab01/Performing Supervised Object-Based Image Classification_Certificate_10102023_Aidan_Brown.pdf",
+    "attachments/Pasted image 20231010101000.png",
+    "attachments/Pasted image 20231010100617.png",
+    "attachments/Pasted image 20231010100539.png",
+    "Readings/Ch2.md",
+    "GEOG523/Lab3",
+    "GEOG531/lab2/lab2_Aidan_Brown.md",
     "GEOG531/lab2/DecimalDegreeCalc.py",
     "GEOG531/lab2/test.py",
     "GEOG521/lab01/Lab1_Aidan_Brown.md",
-    "GEOG531/lab2/lab2_Aidan_Brown.md",
     "GEOG531/lab2",
     "GEOG521/lab01/~$b1_Aidan_Brown.docx",
     "GEOG521/lab01/~WRL0002.tmp",
     "GEOG521/lab01/~WRD0001.tmp",
     "GEOG521/lab01/Lab1_Aidan_Brown.docx",
-    "GEOG521/lab01/~$b1_Aidan_Brown.pdf",
-    "GEOG521/lab01/Lab1_Aidan_Brown.pdf",
-    "GEOG521/lab01/Snail_Habitat_Aidan_Brown.pdf",
     "attachments/Pasted image 20231005135527.png",
     "GEOG511/Lab01/Assignment1_Aidan_Brown.md",
     "GEOG511/Lab01/Lecture Notes.md",
     "GEOG521/lab01/Lecture Notes.md",
     "GEOG511/Lab02/Lecture Notes.md",
-    "GEOG511/Lab02",
     "attachments/Pasted image 20231003152655.png",
     "attachments/Pasted image 20231003150927.png",
-    "GEOG523/Lab2/Assignment2_Aidan_Brown.md",
     "attachments/Pasted image 20231003143847.png",
     "attachments/Pasted image 20231003122923.png",
     "attachments/Pasted image 20231003121817.png",
-    "attachments/Pasted image 20231003121551.png",
-    "attachments/Pasted image 20231003113827.png",
     "GEOG523/Lab2/Lecture Notes.md",
     "GEOG523/Lab1/Assignment1_Aidan_Brown.md",
     "GEOG531/lab1/Assignment1_Aidan_Brown.md",
-    "attachments/Pasted image 20230927121809.png",
-    "attachments/Pasted image 20230927111917.png",
     "GEOG523/Lab1/Lecture Notes.md",
     "GEOG501/General Notes.md",
     "GEOG501/Lab 05/Lecture Notes.md",
@@ -202,7 +203,6 @@
     "GEOG501/Lab 08/Lab8_Aidan_Brown.md",
     "GEOG501/Lab 08/Lecture Notes.md",
     "GEOG501/Exam/Exam Preview.md",
-    "GEOG501/Lab 08.md",
-    "GEOG501/Lab 07/Lecture Notes.md"
+    "GEOG501/Lab 08.md"
   ]
 }

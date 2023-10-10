@@ -72,6 +72,37 @@ overall difference in brightness between the two multi-date images?
 ## Question 8
 
 
+## Question 10
+
+![Pasted image 20231010100539.png](../../attachments/Pasted%20image%2020231010100539.png)
+RVI1990 image
+
+![Pasted image 20231010100617.png](../../attachments/Pasted%20image%2020231010100617.png)
+RVI 1999 image.
+
+Based on the visual nature of the images, and the following histogram comparisons:
+
+![Pasted image 20231010101000.png](../../attachments/Pasted%20image%2020231010101000.png)
+we can visually see that there is more vegetation in 1990 compared to 1999. There are more 4.0 number values in the 1990 histogram, and 5.0 values, which the 1999 histogram omits completely. We can come to the conclusion that Nanaimo went through a large amount of urban development and logging between the years of 1990 - 1999.
+
+## Question 11
+
+When viewing the attribute tables to compare pixel values of RVI1990 to RVI1999:
+
+![Pasted image 20231010102736.png](../../attachments/Pasted%20image%2020231010102736.png)
+
+**114.1102 km2** in area was lost between the years of 1990 - 1999. To get this value I added all pixel values that are => 4, and subtracted the greater value to the smaller value to get the number in sq meters, then converted to sq km.
+
+## Question 12
+
+
+
+
+
+
+
+
+
 
 
 
