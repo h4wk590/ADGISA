@@ -71,7 +71,15 @@ overall difference in brightness between the two multi-date images?
 
 ## Question 8
 
+- Day and Month Acquisition 
 
+1. **Crop yields** - Crop yields will have similar dates each year so day and month acquisition matters a lot here, where one is able to see the direct effects of crop yields every year and compare data.
+2. **Environmental disasters** - Analyzing water levels for hurricanes, and floods, or precipitation levels for droughts are good examples of day and month acquisition needing to be as similar as possible to more closely analyze environmental data.
+
+
+- Images Acquired by the same Sensor
+
+When doing different types of analysis, such as urban development. The changes of the development should be as accurate as possible between growth or infrastructure changes.
 ## Question 10
 
 ![Pasted image 20231010100539.png](../../attachments/Pasted%20image%2020231010100539.png)
@@ -93,7 +101,11 @@ When viewing the attribute tables to compare pixel values of RVI1990 to RVI1999:
 
 **114.1102 km2** in area was lost between the years of 1990 - 1999. To get this value I added all pixel values that are => 4, and subtracted the greater value to the smaller value to get the number in sq meters, then converted to sq km.
 
-## Question 12
+## Question 13
+
+- **Vegetation Density** - Based on the density of the forests and vegetation between 1990 and 1999, there will be variations in RVI reflection.
+- **Types of Plants** - Different plant species will provide different levels of reflection based on the area. For instance, parks in the urban areas of Nanaimo will have lower reflection than that of high density forested areas near and on Mount Benson.
+- **Changing of Seasons** -  Reflection and RVI values will greatly differ between each season.
 
 
 
