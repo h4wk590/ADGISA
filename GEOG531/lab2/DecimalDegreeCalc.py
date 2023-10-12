@@ -45,20 +45,20 @@ def clearText():
     txtMinutes.delete(0, tk.END)
     txtSeconds.delete(0, tk.END)
     txtDD.delete(0, tk.END)
-    txtDegrees.focus()
+    txtDegrees.focus() # Focus on Degrees textbox after clearing
 
 # Function to convert DMS to DD
 # presents error message when not using int values in text boxes
 # uses float values to add all text boxes together with formula to convert from DMS to DD
 def convert():
     if not txtDegrees.get().isdigit():
-        messagebox.showerror("Error", "Please use interger values to input data, not strings.")
+        messagebox.showerror("Error", "Please use interger values to input data, not strings.") # Error and stop if not int
     elif not txtMinutes.get().isdigit():
-        messagebox.showerror("Error", "Please use interger values to input data, not strings.")
+        messagebox.showerror("Error", "Please use interger values to input data, not strings.") # Error and stop if not int
     elif not txtSeconds.get().isdigit():
-        messagebox.showerror("Error", "Please use interger values to input data, not strings.")
+        messagebox.showerror("Error", "Please use interger values to input data, not strings.") # Error and stop if not int
     else:
-        fltDD = float(txtDegrees.get()) + float(txtMinutes.get()) / 60 + float(txtSeconds.get()) / 3600
+        fltDD = float(txtDegrees.get()) + float(txtMinutes.get()) / 60 + float(txtSeconds.get()) / 3600 # Formula to calculate decimal degrees from the input
         txtDD.insert(0, fltDD)
         
 # Button to clear call clearText function to clear all text boxes

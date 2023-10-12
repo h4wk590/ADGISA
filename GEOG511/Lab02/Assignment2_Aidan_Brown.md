@@ -32,10 +32,26 @@ A and B are the keys for the PROJECT table, as each can determine all other attr
 13. A
 
 14. True - Each description is unique to a part number
-15. False - A part number can have multiple supplier addresses
-16. False - 
-17. False
-18. 
+15. False - There are multiple suppliers for a single part number.
+16. False - There are multiple supplier addresses for a single part number.
+17. False - The part number has multiple prices depending on the location.
+18. True - Each description is unique to the supplier.
+19. False - PartNumber does not determine all other attributes.
+
+
+ 21. In a relation R(A, B, C) with functional dependencies and keys:  AB --> C  Key: AB  What normal form is this relation in, and why?
+
+- It passes 1NF as it has a relation.
+- C is functionally dependent on the AB key so it also passes 2NF
+- C does have a transitive relationship so it passes 3NF
+- Fails BCNF because B is not a candidate key.
+
+= 3NF
+
+
+
+
+
 
 
 
