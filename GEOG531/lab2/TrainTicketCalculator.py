@@ -13,7 +13,7 @@ from tkinter import messagebox
 frmTrainTickets  = tk.Tk()
 
 # Define tile of window
-frmTrainTickets.title("Decimal Degree Calculator")
+frmTrainTickets.title("Train Tickets")
 
 # Define size of window
 frmTrainTickets.geometry("300x400")
@@ -37,15 +37,25 @@ txtSeats.place(x=125, y=180)
 txtCost = tk.Entry(frmTrainTickets, bd=5, justify="center")
 txtCost.place(x=125, y=350)
 
+# Function to clear the form and de-select all buttons
+def ClearForm():
+    optLadysmith.deselect(0, tk.END)
+    optDuncan.deselect(0, tk.END)
+    optVictoria.deselect(0, tk.END)
+
 # Create buttons for calculating cost and clearing the form
-btnCalculate = tk.Button(frmTrainTickets, text="")
+# Need to add command when have function
+btnCalculate = tk.Button(frmTrainTickets, text="Calculate Cost")
+btnCalculate.place(x=50, y=295)
+btnClear = tk.Button(frmTrainTickets, text="Clear Form", command=ClearForm)
+btnClear.place(x=190, y=295)
 
 # Create and place radio buttons for user to choose a destination.
-optLadysmith = tk.Radiobutton(frmTrainTickets, text="Ladysmith ($15.00)", variable=intCost, value=1)
-optLadysmith.place(x=50, y=40)
-optDuncan = tk.Radiobutton(frmTrainTickets, text="Duncan ($27.00)", variable=intCost, value=2)
+optLadysmith = tk.Radiobutton(frmTrainTickets, text="Ladysmith ($15.00)", variable=intCost, value=1) # Unique value for intCost var
+optLadysmith.place(x=50, y=40) 
+optDuncan = tk.Radiobutton(frmTrainTickets, text="Duncan ($27.00)", variable=intCost, value=2) # Unique value for intCost var
 optDuncan.place(x=50, y=80)
-optVictoria = tk.Radiobutton(frmTrainTickets, text="Victoria ($39.00)", variable=intCost, value=3)
+optVictoria = tk.Radiobutton(frmTrainTickets, text="Victoria ($39.00)", variable=intCost, value=3) # Unique value for intCost var
 optVictoria.place(x=50, y=120)
 
 # Create and place checkbox for senior discount
@@ -54,5 +64,8 @@ ckbDiscount.place(x=75, y=250)
 
 
 
+
+# Focus on the opLadysmith button
+optLadysmith.select()
 # Main loop to run program
 frmTrainTickets.mainloop()
