@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "GEOG521/lab02/Lab2_Aidan_Brown.md",
+                "file": "GEOG521/lab03/Lab3_Aidan_Brown.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "GEOG521/lab02/Lab2_Aidan_Brown.md",
+                "file": "GEOG521/lab03/Lab3_Aidan_Brown.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "GEOG521/lab02/Lab2_Aidan_Brown.md",
+                "file": "GEOG521/lab03/Lab3_Aidan_Brown.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "GEOG521/lab02/Lab2_Aidan_Brown.md"
+                "file": "GEOG521/lab03/Lab3_Aidan_Brown.md"
               }
             }
           },
@@ -158,21 +158,24 @@
   },
   "active": "19c90757d9555ead",
   "lastOpenFiles": [
+    "GEOG531/lab2/TrainTicketCalculator.py",
+    "attachments/Pasted image 20231012144744.png",
+    "GEOG521/lab03/Lecture Notes.md",
+    "GEOG521/lab03/Lab3_Aidan_Brown.md",
+    "GEOG521/lab02/Lab2_Aidan_Brown.md",
+    "GEOG521/lab03",
+    "GEOG521/lab02/Suitability Modeling Creating a Weighted Suitability Model_Certificate_10122023_Aidan_Brown.pdf",
+    "GEOG521/lab02/Suitability Modeling Creating a Simple Suitability Model_Certificate_10122023_Aidan_Brown.pdf",
+    "GEOG521/lab02/Suitability Modeling Introduction_Certificate_10122023_Aidan_Brown.pdf",
     "GEOG521/lab02/Aidan_Brown_Layout.pdf",
     "GEOG521/lab02/~$b2_Aidan_Brown.docx",
     "GEOG521/lab02/~WRL0002.tmp",
     "GEOG521/lab02/~WRD0001.tmp",
     "GEOG521/lab02/Lab2_Aidan_Brown.docx",
     "GEOG521/lab02/Lab2_Aidan_Brown.pdf",
-    "GEOG521/Aidan_Brown_Layout.pdf",
-    "GEOG523/Lab2/Assignment2_Aidan_Brown.pdf",
-    "GEOG521/lab02/Lab2_Aidan_Brown.md",
     "attachments/Pasted image 20231012020348.png",
     "attachments/Pasted image 20231012020232.png",
     "GEOG511/Lab02/Assignment2_Aidan_Brown.md",
-    "GEOG511/Lab02/~$signment2_Aidan_Brown.docx",
-    "GEOG511/Lab02/~WRL0002.tmp",
-    "GEOG511/Lab02/~WRD0001.tmp",
     "GEOG511/Lab01/Assignment1_Aidan_Brown.md",
     "GEOG511/Lab01/Lecture Notes.md",
     "GEOG511/Lab02/Lecture Notes.md",
@@ -190,7 +193,6 @@
     "GEOG521/lab01/Lab1_Aidan_Brown.md",
     "attachments/Pasted image 20231005135527.png",
     "GEOG521/lab01/Lecture Notes.md",
-    "attachments/Pasted image 20231003152655.png",
     "GEOG523/Lab2/Lecture Notes.md",
     "GEOG523/Lab1/Assignment1_Aidan_Brown.md",
     "GEOG531/lab1/Assignment1_Aidan_Brown.md",
@@ -201,8 +203,6 @@
     "GEOG501/Lab 05/Lab05_Aidan_Brown.md",
     "GEOG501/Lab 04/Lecture Notes.md",
     "GEOG501/Lab 03/Lecture Notes.md",
-    "GEOG501/Lab 02/Lecture Notes.md",
-    "GEOG501/Lab 01/Lecture Notes.md",
-    "GEOG501/Lab 07/Lab7_Aidan_Brown.md"
+    "GEOG501/Lab 02/Lecture Notes.md"
   ]
 }
