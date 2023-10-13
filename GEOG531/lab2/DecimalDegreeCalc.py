@@ -30,7 +30,7 @@ lblDecimalDegrees = tk.Label(frmDDCalculator, text="Decimal Degrees")
 lblDecimalDegrees.place(x=150, y=200)
 
 # Create and place Text boxes for converting, clearing, and decimal degrees
-txtDegrees = tk.Entry(frmDDCalculator, bd=5, justify="center")
+txtDegrees = tk.Entry(frmDDCalculator, bd=5, justify="center") 
 txtDegrees.place(x=10, y=40) 
 txtMinutes = tk.Entry(frmDDCalculator, bd=5, justify="center")
 txtMinutes.place(x=180, y=40)
@@ -41,7 +41,8 @@ txtDD.place(x=150, y=250)
 
 # Function to clear the text boxes, and set focus back to Degrees text box
 def clearText():
-    txtDegrees.delete(0, tk.END)
+    # Clear text boxes
+    txtDegrees.delete(0, tk.END) 
     txtMinutes.delete(0, tk.END)
     txtSeconds.delete(0, tk.END)
     txtDD.delete(0, tk.END)

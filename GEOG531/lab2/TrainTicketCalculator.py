@@ -49,10 +49,10 @@ optVictoria.place(x=50, y=120)
 # Function to clear the form and de-select all buttons
 def ClearForm():
     optLadysmith.select() # Have to have this as select as we want Ladysmith as the starting option
-    optDuncan.deselect()
-    optVictoria.deselect()
-    txtSeats.delete(0, tk.END) 
-    txtCost.delete(0, tk.END)
+    optDuncan.deselect() # De-select radio button
+    optVictoria.deselect() 
+    txtSeats.delete(0, tk.END) # Clean text box
+    txtCost.delete(0, tk.END) 
     intDiscount.set(0) # Reset the senior discount checkbox
 
 # Function to calculate the cost based on number of seats user chooses    
@@ -61,11 +61,12 @@ def CalculateCost():
         messagebox.showerror("Error.", "Unaccepted. use number values only.") # Error message if user enters anything but int values
     else:
         intSeats = int(txtSeats.get()) # new int variable witihn loop to hold user entered number
-        if intCost.get() == 1: # Specified from radio button values using intCost variable
+        # Specified from radio button values using intCost variable, creating new float variables in loop
+        if intCost.get() == 1: 
             fltCost = 15.00
-        elif intCost.get() == 2: # Radio button intCost variable
+        elif intCost.get() == 2: 
             fltCost = 27.00
-        elif intCost.get() == 3: # Radio button intCost variable
+        elif intCost.get() == 3: 
             fltCost = 39.00
         else:
             return # For any other criteria that doesn't match above stop program.
@@ -75,7 +76,7 @@ def CalculateCost():
             totalCost = totalCost * 0.85 # Apply discount - expressed as 85/100 for the 15% off the totalCost.
             messagebox.showinfo("Confirmation", "Discount Enabled.") 
         txtCost.delete(0, tk.END) # Remove any numbers in the Total Cost text box. This is just cleaner so it doesn't keep adding more values incase of multiple clicks..
-        txtCost.insert(0, totalCost) # Insert tota cost into the text box
+        txtCost.insert(0, totalCost) # Insert total cost into the text box
 
 # Create buttons for calculating cost and clearing the form
 btnCalculate = tk.Button(frmTrainTickets, text="Calculate Cost", command=CalculateCost)
