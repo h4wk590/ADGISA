@@ -22,6 +22,28 @@ frmTempConverter.geometry("350x320")
 # Add empty list to add temp values to.
 lstTemps = []
 
+# Standalone function for the conversion that takes a celsius value
+def celsiusToF(celsius):
+    return (celsius * 9/5) + 32 # Returns the converted value to farenheit
+
+# Function to build table 
+def buildTable():
+    # The textox user inputs need to be float types
+    fltMinTemp = float(txtMinTemp.get())
+    fltMaxtemp = float(txtMaxTemp.get())
+    fltIncrement = float(txtIncrement.get())
+
+    # Clear the listbox before adding new values
+    lboTempOutput.delete(0, tk.END)
+
+    # For each cel
+    for celsius in range(int(fltMinTemp), int(fltMaxtemp) + 1, int(fltIncrement)):
+        fahrenheit = celsiusToF(celsius)
+        lstTemps.append(f"{celsius}°C = {fahrenheit:.2f}°F")
+
+        # Update the listbox
+        lboTempOutput.insert(tk.END, f"{celsius}°C = {fahrenheit:.2f}°F")
+
 # Add lables for text boxes.
 lblMinTemp = tk.Label(frmTempConverter, text="Minimum Temperature:")
 lblMinTemp.place(x=20, y=20)
@@ -31,7 +53,7 @@ lblIncrement = tk.Label(frmTempConverter, text="Increment")
 lblIncrement.place(x=20, y=80)
 
 # Add Converting button
-btnBuildTable = tk.Button(frmTempConverter, text="Build Conversion Table")
+btnBuildTable = tk.Button(frmTempConverter, text="Build Conversion Table", command=buildTable)
 btnBuildTable.place(x=100, y=120)
 
 # Add text boxes
@@ -43,7 +65,8 @@ txtIncrement = tk.Entry(frmTempConverter, bd=5, justify="center")
 txtIncrement.place(x=200, y=80)
 
 # Text box for converted temperature outputs
-lboTempOutput = tk.Listbox(frmTempConverter, height=3, width=50, listvariable=lstTemps)
+lboTempOutput = tk.Listbox(frmTempConverter, height=8, width=50)
+lboTempOutput.place(x=20, y=160)
 
 # loop through through main window.
 frmTempConverter.mainloop()
