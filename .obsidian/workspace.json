@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "GEOG531/lab3/lab3_Aidan_Brown.md",
+                "file": "GEOG511/Lab03/Assignment03_Aidan_Brown.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "GEOG531/lab3/lab3_Aidan_Brown.md",
+                "file": "GEOG511/Lab03/Assignment03_Aidan_Brown.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "GEOG531/lab3/lab3_Aidan_Brown.md",
+                "file": "GEOG511/Lab03/Assignment03_Aidan_Brown.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "GEOG531/lab3/lab3_Aidan_Brown.md"
+                "file": "GEOG511/Lab03/Assignment03_Aidan_Brown.md"
               }
             }
           },
@@ -158,41 +158,42 @@
   },
   "active": "19c90757d9555ead",
   "lastOpenFiles": [
+    "attachments/Pasted image 20231018112353.png",
+    "GEOG523/Lab3/Assignment3_Aidan_Brown.md",
+    "GEOG511/Lab03/Assignment03_Aidan_Brown.md",
+    "GEOG511/Lab03",
+    "GEOG523/Lab3/Finding the Optimal Location of Facilities Using ArcGIS Pro_Certificate_10172023_Aidan_Brown.pdf",
+    "GEOG523/Lab3/~$signment3_Aidan_Brown.docx",
+    "GEOG523/Lab3/~WRL0002.tmp",
+    "GEOG523/Lab3/~WRD0001.tmp",
+    "GEOG523/Lab3/Assignment3_Aidan_Brown.docx",
+    "attachments/Pasted image 20231017125257.png",
+    "GEOG523/Lab3/layoutq11.pdf",
+    "attachments/Pasted image 20231017114025.png",
+    "attachments/Pasted image 20231017113524.png",
+    "attachments/Pasted image 20231017104100.png",
+    "attachments/Pasted image 20231017104022.png",
+    "attachments/Pasted image 20231017100420.png",
+    "attachments/Pasted image 20231016200619.png",
+    "GEOG531/lab3/lab3_Aidan_Brown.md",
     "GEOG531/lab3/TempConverter.py",
     "GEOG531/lab3/test.py",
     "GEOG531/lab2/lab2_Aidan_Brown.md",
-    "GEOG531/lab3/lab3_Aidan_Brown.md",
     "GEOG531/lab3",
-    "GEOG531/lab2/lab2_Aidan_Brown.zip",
-    "GEOG531/lab2/DecimalDegreeCalc.zip",
-    "GEOG531/lab2/~$b2_Aidan_Brown.docx",
-    "GEOG531/lab2/~WRL0002.tmp",
-    "GEOG531/lab2/~WRD0001.tmp",
-    "GEOG531/lab2/lab2_Aidan_Brown.docx",
     "GEOG521/lab03/Lab3_Aidan_Brown.md",
-    "GEOG531/lab2/TrainTicketCalculator.py",
     "attachments/Pasted image 20231012144744.png",
     "GEOG521/lab03/Lecture Notes.md",
     "GEOG521/lab02/Lab2_Aidan_Brown.md",
-    "GEOG521/lab03",
     "attachments/Pasted image 20231012020348.png",
     "attachments/Pasted image 20231012020232.png",
     "GEOG511/Lab02/Assignment2_Aidan_Brown.md",
     "GEOG511/Lab01/Assignment1_Aidan_Brown.md",
     "GEOG511/Lab01/Lecture Notes.md",
     "GEOG511/Lab02/Lecture Notes.md",
-    "attachments/Pasted image 20231011110841.png",
-    "attachments/Pasted image 20231011110636.png",
     "GEOG521/Untitled.md",
     "GEOG523/Lab2/Assignment2_Aidan_Brown.md",
-    "GEOG523/Lab3/Assignment3_Aidan_Brown.md",
-    "attachments/Pasted image 20231010102736.png",
-    "attachments/Pasted image 20231010101000.png",
-    "attachments/Pasted image 20231010100617.png",
-    "attachments/Pasted image 20231010100539.png",
     "Readings/Ch2.md",
     "GEOG521/lab01/Lab1_Aidan_Brown.md",
-    "attachments/Pasted image 20231005135527.png",
     "GEOG521/lab01/Lecture Notes.md",
     "GEOG523/Lab2/Lecture Notes.md",
     "GEOG523/Lab1/Assignment1_Aidan_Brown.md",
@@ -202,7 +203,6 @@
     "GEOG501/Lab 05/Lecture Notes.md",
     "GEOG501/Lab 05/EsriTraining5_Aidan_Brown.md",
     "GEOG501/Lab 05/Lab05_Aidan_Brown.md",
-    "GEOG501/Lab 04/Lecture Notes.md",
-    "GEOG501/Lab 03/Lecture Notes.md"
+    "GEOG501/Lab 04/Lecture Notes.md"
   ]
 }
