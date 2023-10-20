@@ -38,3 +38,22 @@ ACCIDENT(<u>AccID</u>, Data, Location, <i>Car_VIN</i>)
 
 ## Question 8
 
+- The apartment with 5 children under 18 in it is on Barvinsky street.
+
+## Question 9
+
+- 70 adult males live on Hrushevsky Street.
+
+## Question 10
+
+- 103 apartments are within the Cooperative housing group 1 and have 0 children living there.
+
+## Question 11
+
+![Pasted image 20231018142650.png](../../attachments/Pasted%20image%2020231018142650.png)
+
+## Question 13
+
+- 19 buildings in BLK_SID 37
+
+
