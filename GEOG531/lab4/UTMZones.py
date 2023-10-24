@@ -31,6 +31,18 @@ def calculateLongitude():
 
     showinfo("Longitude Range", f"Longitude Range: {longitude}° to {longitude + 6}°")
 
+# Function to show the About UTM Zones window
+def AboutZones():
+    about_window = tk.Toplevel()
+    about_window.title("About UTM Zones")
+    about_window.geometry("300x200")
+    
+    about_label = tk.Label(about_window, text="Universal Transverse Mercator (UTM) zones are a system of geospatial latitude-longitude grids.")
+    about_label.pack(pady=20)
+    
+    close_button = tk.Button(about_window, text="Close", command=about_window.destroy)
+    close_button.pack()
+
 # Create an int control variable for the combobox property textvariable
 intZone = tk.IntVar()
 intZoneChoice = ttk.Combobox(frmUTMZones, width=15, textvariable=intZone)
@@ -43,7 +55,7 @@ calculate_button = tk.Button(frmUTMZones, text="Show Longitude Range", command=c
 calculate_button.pack()
 
 # Create a button to show the "About UTM Zones" window
-about_button = tk.Button(frmUTMZones, text="About UTM Zones") # Needs a command to show the about window still
+about_button = tk.Button(frmUTMZones, text="About UTM Zones", command=AboutZones) # Needs a command to show the about window still
 about_button.pack()
 
 # Create combobox
