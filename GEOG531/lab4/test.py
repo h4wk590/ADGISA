@@ -1,7 +1,6 @@
-X = 2
-def Moo():
-    global X
-    X = 5
-    return X
-X = Moo() + X
-print(X)
+try:
+    x = "GIS"
+    if not type(x) is int:
+        raise TypeError("Only integers are allowed")
+except:
+    print ("Error number 9")
