@@ -38,6 +38,7 @@
  ![Pasted image 20231024012514.png](../../attachments/Pasted%20image%2020231024012514.png)
 
 But when zooming in, the accuracy of the actual place of interest (in our case the childhood centres), we see that the address pins are much clearer to the data we want:
+
 ![Pasted image 20231024012706.png](../../attachments/Pasted%20image%2020231024012706.png)
 
 ## Question 8
@@ -79,9 +80,29 @@ The topology connectivity must be established beforehand as it defines the spati
 
 ## Question 13
 
+- **TravelTime** - Minutes.
+- **Distance** - Meters.
+
+## Question 14
 
 
+In the ArcGIS Context the transportation network is defined using points or nodes and junctions and line segments/turns to make up the transportation area. It combines this information with the network dataset, which contains the topology, and imported feature classes to allow connectivity between the network and the network dataset.
 
+## Question 15
+
+![Pasted image 20231024130647.png](../../attachments/Pasted%20image%2020231024130647.png)
+
+## Question 16
+
+The farthest distance from VIU to a childcare location is 26KM (location 1 to 17).
+
+## Question 17
+
+- The cutoffs are parameter's that are used to give distance away or toward the chosen facilities in time. In this case we want any facilities 3, 5, or 10 minutes away from the facilities.
+
+## Question 19
+
+- 31 demand points (schools) are allocated to South Nanaimo Panago store.
 
  
 

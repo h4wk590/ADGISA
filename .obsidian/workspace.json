@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "GEOG523/Lab4/Assignment4_Aidan_Brown.md",
+                "file": "GEOG521/lab04/Lab4_Aidan_Brown.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "GEOG523/Lab4/Assignment4_Aidan_Brown.md",
+                "file": "GEOG521/lab04/Lab4_Aidan_Brown.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "GEOG523/Lab4/Assignment4_Aidan_Brown.md",
+                "file": "GEOG521/lab04/Lab4_Aidan_Brown.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "GEOG523/Lab4/Assignment4_Aidan_Brown.md"
+                "file": "GEOG521/lab04/Lab4_Aidan_Brown.md"
               }
             }
           },
@@ -156,34 +156,43 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "19c90757d9555ead",
+  "active": "d542898d1856b3b5",
   "lastOpenFiles": [
-    "attachments/Pasted image 20231024012706.png",
-    "attachments/Pasted image 20231024012514.png",
-    "GEOG523/Lab4/Optimizing Routes for Efficient Fleet Management_Certificate_10232023_Aidan_Brown.pdf",
-    "GEOG531/lab3/lab3_Aidan_Brown.md",
+    "GEOG531/lab4/utmzones.png",
+    "GEOG521/lab04/~$b4_Aidan_Brown.docx",
+    "GEOG521/lab04/~WRL0002.tmp",
+    "GEOG521/lab04/~WRD0001.tmp",
+    "GEOG521/lab04/Lab4_Aidan_Brown.docx",
+    "GEOG521/lab04/~$b4_Aidan_Brown.pdf",
+    "GEOG521/lab04/Lab4_Aidan_Brown.pdf",
+    "attachments/Pasted image 20231026143601.png",
+    "GEOG521/lab04/Layout.pdf",
+    "attachments/Pasted image 20231026125621.png",
+    "attachments/Pasted image 20231026124613.png",
+    "attachments/Pasted image 20231026122702.png",
+    "attachments/Pasted image 20231026122222.png",
+    "attachments/Pasted image 20231026104445.png",
+    "attachments/Pasted image 20231026015250.png",
+    "attachments/Pasted image 20231026005720.png",
+    "GEOG521/lab04/Terrain Analysis Using ArcGIS Pro_Certificate_10262023_Aidan_Brown.pdf",
+    "GEOG501/Lab 02/Lab2_Aidan_Brown.md",
+    "GEOG501/Lab 03/Lab3_Aidan_Brown.md",
+    "GEOG501/Lab 04/Toronto Thefts.jpg",
+    "GEOG501/Lab 04/Symbolizing Map Layers_Certificate_09112023.pdf_Aidan_Brown.pdf",
+    "GEOG501/Lab 04/Layout.pdf",
+    "GEOG501/Lab 04/Lab4_Aidan_Brown.md",
+    "GEOG501/Lab 05/Lecture Notes.md",
+    "GEOG501/Lab 05/Lab05_Aidan_Brown.md",
+    "GEOG501/Lab 05/EsriTraining5_Aidan_Brown.md",
+    "GEOG501/Lab 08/Lab8_Aidan_Brown.md",
+    "GEOG511/Lab04/Assignment4_Aidan_Brown.md",
+    "GEOG521/lab04/Lab4_Aidan_Brown.md",
     "GEOG523/Lab4/Assignment4_Aidan_Brown.md",
-    "GEOG523/Lab4",
-    "GEOG531/lab4/UTMZones.py",
-    "GEOG531/lab4",
-    "GEOG531/lab3/Assignment3_Aidan_Brown.zip",
-    "GEOG531/lab3/Assignment.zip",
-    "GEOG531/lab3/SnakeEyes.zip",
-    "GEOG531/lab3/~$signment3_Aidan_Brown.docx",
-    "GEOG531/lab3/~WRL0002.tmp",
-    "GEOG531/lab3/~WRD0001.tmp",
+    "attachments/Pasted image 20231024130647.png",
+    "GEOG531/lab3/lab3_Aidan_Brown.md",
     "GEOG521/lab03/Lab3_Aidan_Brown.md",
-    "attachments/Pasted image 20231019142314.png",
-    "attachments/Pasted image 20231019103042.png",
-    "attachments/Pasted image 20231019094830.png",
-    "attachments/Pasted image 20231019093900.png",
     "GEOG511/Lab03/Assignment03_Aidan_Brown.md",
-    "attachments/Pasted image 20231018142650.png",
-    "attachments/Pasted image 20231018112353.png",
     "GEOG523/Lab3/Assignment3_Aidan_Brown.md",
-    "attachments/Pasted image 20231017125257.png",
-    "attachments/Pasted image 20231017114025.png",
-    "attachments/Pasted image 20231017113524.png",
     "GEOG531/lab2/lab2_Aidan_Brown.md",
     "GEOG521/lab03/Lecture Notes.md",
     "GEOG521/lab02/Lab2_Aidan_Brown.md",
@@ -194,15 +203,6 @@
     "GEOG521/Untitled.md",
     "GEOG523/Lab2/Assignment2_Aidan_Brown.md",
     "Readings/Ch2.md",
-    "GEOG521/lab01/Lab1_Aidan_Brown.md",
-    "GEOG521/lab01/Lecture Notes.md",
-    "GEOG523/Lab2/Lecture Notes.md",
-    "GEOG523/Lab1/Assignment1_Aidan_Brown.md",
-    "GEOG531/lab1/Assignment1_Aidan_Brown.md",
-    "GEOG523/Lab1/Lecture Notes.md",
-    "GEOG501/General Notes.md",
-    "GEOG501/Lab 05/Lecture Notes.md",
-    "GEOG501/Lab 05/EsriTraining5_Aidan_Brown.md",
-    "GEOG501/Lab 05/Lab05_Aidan_Brown.md"
+    "GEOG521/lab01/Lab1_Aidan_Brown.md"
   ]
 }
