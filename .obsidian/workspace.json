@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "GEOG521/lab04/Lab4_Aidan_Brown.md",
+                "file": "GEOG531/lab4/Assignment4_Aidan_Brown.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "GEOG521/lab04/Lab4_Aidan_Brown.md",
+                "file": "GEOG531/lab4/Assignment4_Aidan_Brown.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "GEOG521/lab04/Lab4_Aidan_Brown.md",
+                "file": "GEOG531/lab4/Assignment4_Aidan_Brown.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "GEOG521/lab04/Lab4_Aidan_Brown.md"
+                "file": "GEOG531/lab4/Assignment4_Aidan_Brown.md"
               }
             }
           },
@@ -156,10 +156,13 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "d542898d1856b3b5",
+  "active": "19c90757d9555ead",
   "lastOpenFiles": [
-    "GEOG531/lab4/GuessingGame.py",
+    "GEOG531/lab4/test.py",
     "GEOG531/lab4/utmzones.png",
+    "GEOG531/lab4/Assignment4_Aidan_Brown.md",
+    "GEOG521/lab04/Lab4_Aidan_Brown.md",
+    "GEOG531/lab4/GuessingGame.py",
     "GEOG521/lab04/~$b4_Aidan_Brown.docx",
     "GEOG521/lab04/~WRL0002.tmp",
     "GEOG521/lab04/~WRD0001.tmp",
@@ -180,14 +183,12 @@
     "GEOG501/Lab 03/Lab3_Aidan_Brown.md",
     "GEOG501/Lab 04/Toronto Thefts.jpg",
     "GEOG501/Lab 04/Symbolizing Map Layers_Certificate_09112023.pdf_Aidan_Brown.pdf",
-    "GEOG501/Lab 04/Layout.pdf",
     "GEOG501/Lab 04/Lab4_Aidan_Brown.md",
     "GEOG501/Lab 05/Lecture Notes.md",
     "GEOG501/Lab 05/Lab05_Aidan_Brown.md",
     "GEOG501/Lab 05/EsriTraining5_Aidan_Brown.md",
     "GEOG501/Lab 08/Lab8_Aidan_Brown.md",
     "GEOG511/Lab04/Assignment4_Aidan_Brown.md",
-    "GEOG521/lab04/Lab4_Aidan_Brown.md",
     "GEOG523/Lab4/Assignment4_Aidan_Brown.md",
     "GEOG531/lab3/lab3_Aidan_Brown.md",
     "GEOG521/lab03/Lab3_Aidan_Brown.md",
@@ -202,7 +203,6 @@
     "GEOG511/Lab02/Lecture Notes.md",
     "GEOG521/Untitled.md",
     "GEOG523/Lab2/Assignment2_Aidan_Brown.md",
-    "Readings/Ch2.md",
-    "GEOG521/lab01/Lab1_Aidan_Brown.md"
+    "Readings/Ch2.md"
   ]
 }

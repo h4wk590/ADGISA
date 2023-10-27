@@ -29,7 +29,7 @@ def calculateLongitude():
     else:
         showinfo("Please select a valid UTM zone (1-60).")
         return
-    showinfo("Longitude Range", f"Longitude Range: {intlongitude}° to {intlongitude + 6}°") # Display output of long and lat using f-string
+    showinfo("Longitude Range", f"Zone {cboZones.get()} Longitude Range: {intlongitude}° to {intlongitude + 6}°") # Display output of long and lat using f-string
 
 # Function to show the About UTM Zones window
 def AboutZones():
