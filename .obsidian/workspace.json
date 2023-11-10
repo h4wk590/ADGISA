@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "GEOG521/lab05/Lab5_Aidan_Brown.md",
+                "file": "GEOG521/lab06/Lab6_Aidan_Brown.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "GEOG521/lab05/Lab5_Aidan_Brown.md",
+                "file": "GEOG521/lab06/Lab6_Aidan_Brown.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "GEOG521/lab05/Lab5_Aidan_Brown.md",
+                "file": "GEOG521/lab06/Lab6_Aidan_Brown.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "GEOG521/lab05/Lab5_Aidan_Brown.md"
+                "file": "GEOG521/lab06/Lab6_Aidan_Brown.md"
               }
             }
           },
@@ -158,31 +158,33 @@
   },
   "active": "19c90757d9555ead",
   "lastOpenFiles": [
-    "GEOG581/PracticumSummaries/Western Water - wells update _2023-Oct(10)24.docx",
-    "GEOG581/PracticumSummaries/VIU Tire Wear Toxins.docx",
-    "GEOG581/PracticumSummaries/VIU Air Quality Mapping.docx",
-    "GEOG581/PracticumSummaries/TRTFN Caribou-Recreation.docx",
-    "GEOG581/PracticumSummaries/NRCAN SAR Attribute Update 2024.docx",
-    "GEOG581/PracticumSummaries/NALT Stream Outfall Assessment.docx",
-    "GEOG581/PracticumSummaries/MoF_WLRS Lake Basin Geospatial Technician_v20231031.docx",
-    "GEOG581/PracticumSummaries/MABRRI - Ecological Accounting Process Partnership.pdf",
-    "GEOG581/PracticumSummaries/Ecoforestry LiDAR Analysis.docx",
-    "GEOG581/PracticumSummaries/DFO Marine Spatial Planning.docx",
-    "GEOG581/PracticumSummaries/Canadian Pacific - Practicum Opportunity Summary.docx",
-    "attachments/Pasted image 20231102125605.png",
-    "attachments/Pasted image 20231102125536.png",
-    "attachments/Pasted image 20231102125456.png",
-    "attachments/Pasted image 20231102123627.png",
-    "attachments/Pasted image 20231102123531.png",
-    "attachments/Pasted image 20231102111600.png",
-    "attachments/Pasted image 20231102104235.png",
-    "attachments/Pasted image 20231102001956.png",
-    "attachments/Pasted image 20231102001902.png",
-    "GEOG511/lab05/Assignment5_Aidan_Brown.md",
-    "GEOG521/lab05/Lab5_Aidan_Brown.md",
+    "GEOG521/lab06/~$b6_Aidan_Brown.docx",
+    "GEOG521/lab06/~WRL0002.tmp",
+    "GEOG521/lab06/~WRD0001.tmp",
+    "GEOG521/lab06/Lab6_Aidan_Brown.docx",
+    "GEOG521/lab06/Lab6_Aidan_Brown.pdf",
+    "attachments/Pasted image 20231110021951.png",
+    "attachments/Pasted image 20231110021930.png",
+    "attachments/Pasted image 20231110021301.png",
+    "attachments/Pasted image 20231110020524.png",
+    "GEOG521/lab06/Performing Line of Sight Analysis_Certificate_11102023_Aidan_Brown.pdf",
+    "GEOG521/lab06/Performing Viewshed Analysis in ArcGIS Pro_Certificate_11102023_Aidan_Brown.pdf",
+    "attachments/Pasted image 20231110013737.png",
+    "attachments/Pasted image 20231110012707.png",
+    "attachments/Pasted image 20231110004121.png",
+    "attachments/Pasted image 20231108110644.png",
     "GEOG523/lab5/Assignment5_Aidan_Brown.md",
+    "GEOG521/lab06/Lab6_Aidan_Brown.md",
+    "GEOG521/lab06",
+    "GEOG523/lab5/~$signment5_Aidan_Brown.docx",
+    "GEOG523/lab5/~WRL0002.tmp",
+    "GEOG523/lab5/~WRD0001.tmp",
+    "attachments/Pasted image 20231107211535.png",
+    "attachments/Pasted image 20231107211436.png",
+    "GEOG531/lab5/Assignment5_Aidan_Brown.md",
+    "GEOG521/lab05/Lab5_Aidan_Brown.md",
+    "GEOG511/lab05/Assignment5_Aidan_Brown.md",
     "GEOG531/lab4/Assignment4_Aidan_Brown.md",
-    "GEOG531/lab4/utmzones.png",
     "GEOG521/lab04/Lab4_Aidan_Brown.md",
     "GEOG501/Lab 02/Lab2_Aidan_Brown.md",
     "GEOG501/Lab 03/Lab3_Aidan_Brown.md",
@@ -201,8 +203,6 @@
     "GEOG521/lab03/Lecture Notes.md",
     "GEOG521/lab02/Lab2_Aidan_Brown.md",
     "GEOG511/Lab02/Assignment2_Aidan_Brown.md",
-    "GEOG511/Lab01/Assignment1_Aidan_Brown.md",
-    "GEOG511/Lab01/Lecture Notes.md",
-    "GEOG511/Lab02/Lecture Notes.md"
+    "GEOG511/Lab01/Assignment1_Aidan_Brown.md"
   ]
 }
