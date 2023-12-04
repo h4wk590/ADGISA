@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "GEOG521/lab06/Lab6_Aidan_Brown.md",
+                "file": "GEOG521/lab08/Lab8_Aidan_Brown.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "GEOG521/lab06/Lab6_Aidan_Brown.md",
+                "file": "GEOG521/lab08/Lab8_Aidan_Brown.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "GEOG521/lab06/Lab6_Aidan_Brown.md",
+                "file": "GEOG521/lab08/Lab8_Aidan_Brown.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "GEOG521/lab06/Lab6_Aidan_Brown.md"
+                "file": "GEOG521/lab08/Lab8_Aidan_Brown.md"
               }
             }
           },
@@ -158,32 +158,39 @@
   },
   "active": "19c90757d9555ead",
   "lastOpenFiles": [
-    "GEOG521/lab06/~$b6_Aidan_Brown.docx",
-    "GEOG521/lab06/~WRL0002.tmp",
-    "GEOG521/lab06/~WRD0001.tmp",
-    "GEOG521/lab06/Lab6_Aidan_Brown.docx",
-    "GEOG521/lab06/Lab6_Aidan_Brown.pdf",
-    "attachments/Pasted image 20231110021951.png",
-    "attachments/Pasted image 20231110021930.png",
-    "attachments/Pasted image 20231110021301.png",
-    "attachments/Pasted image 20231110020524.png",
-    "GEOG521/lab06/Performing Line of Sight Analysis_Certificate_11102023_Aidan_Brown.pdf",
-    "GEOG521/lab06/Performing Viewshed Analysis in ArcGIS Pro_Certificate_11102023_Aidan_Brown.pdf",
-    "attachments/Pasted image 20231110013737.png",
-    "attachments/Pasted image 20231110012707.png",
-    "attachments/Pasted image 20231110004121.png",
-    "attachments/Pasted image 20231108110644.png",
-    "GEOG523/lab5/Assignment5_Aidan_Brown.md",
-    "GEOG521/lab06/Lab6_Aidan_Brown.md",
-    "GEOG521/lab06",
-    "GEOG523/lab5/~$signment5_Aidan_Brown.docx",
-    "GEOG523/lab5/~WRL0002.tmp",
-    "GEOG523/lab5/~WRD0001.tmp",
-    "attachments/Pasted image 20231107211535.png",
-    "attachments/Pasted image 20231107211436.png",
-    "GEOG531/lab5/Assignment5_Aidan_Brown.md",
-    "GEOG521/lab05/Lab5_Aidan_Brown.md",
+    "GEOG531/lab8/Creating Python Scripts for Raster Analysis_Certificate_12012023.pdf",
+    "GEOG531/lab8",
+    "GEOG531/New folder",
+    "GEOG521/lab08/~$b8_Aidan_Brown.docx",
+    "GEOG521/lab08/~WRL0002.tmp",
+    "GEOG521/lab08/~WRD0001.tmp",
+    "GEOG521/lab08/Lab8_Aidan_Brown.docx",
+    "GEOG521/lab08/Lab8_Aidan_Brown.pdf",
+    "attachments/Pasted image 20231130161351.png",
+    "attachments/Pasted image 20231130151650.png",
+    "attachments/Pasted image 20231130140544.png",
+    "GEOG521/lab08/Creating a Space-Time Cube_Certificate_11292023_Aidan_Brown.pdf",
+    "GEOG521/lab08/Introduction to Space-Time Analysis_Certificate_11292023_Aidan_Brown.pdf",
+    "GEOG521/lab07/Esri_Training7.pdf",
+    "GEOG521/Practice Exam.md",
+    "GEOG521/lab08/Lab8_Aidan_Brown.md",
+    "attachments/Pasted image 20231130022310.png",
+    "GEOG581/Fish Habitat Project.md",
+    "GEOG523/Lab7/Assignment7_Aidan_Brown.md",
+    "attachments/Layout1.jpg",
+    "attachments/Layout 1.jpg",
+    "attachments/Layout1 1.jpg",
     "GEOG511/lab05/Assignment5_Aidan_Brown.md",
+    "GEOG521/lab07/Esri_Training7.md",
+    "attachments/Pasted image 20231123170902.png",
+    "attachments/Pasted image 20231123165430.png",
+    "attachments/Pasted image 20231123163516.png",
+    "GEOG521/lab07/Lab7_Aidan_Brown.md",
+    "GEOG521/lab05/Lab5_Aidan_Brown.md",
+    "GEOG521/lab06/Lab6_Aidan_Brown.md",
+    "GEOG523/Lab6/Assignment6_Aidan_Brown.md",
+    "GEOG523/lab5/Assignment5_Aidan_Brown.md",
+    "GEOG531/lab5/Assignment5_Aidan_Brown.md",
     "GEOG531/lab4/Assignment4_Aidan_Brown.md",
     "GEOG521/lab04/Lab4_Aidan_Brown.md",
     "GEOG501/Lab 02/Lab2_Aidan_Brown.md",
@@ -196,13 +203,6 @@
     "GEOG511/Lab04/Assignment4_Aidan_Brown.md",
     "GEOG523/Lab4/Assignment4_Aidan_Brown.md",
     "GEOG531/lab3/lab3_Aidan_Brown.md",
-    "GEOG521/lab03/Lab3_Aidan_Brown.md",
-    "GEOG511/Lab03/Assignment03_Aidan_Brown.md",
-    "GEOG523/Lab3/Assignment3_Aidan_Brown.md",
-    "GEOG531/lab2/lab2_Aidan_Brown.md",
-    "GEOG521/lab03/Lecture Notes.md",
-    "GEOG521/lab02/Lab2_Aidan_Brown.md",
-    "GEOG511/Lab02/Assignment2_Aidan_Brown.md",
-    "GEOG511/Lab01/Assignment1_Aidan_Brown.md"
+    "GEOG521/lab03/Lab3_Aidan_Brown.md"
   ]
 }
