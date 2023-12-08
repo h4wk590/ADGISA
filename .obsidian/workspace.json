@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "GEOG521/lab08/Lab8_Aidan_Brown.md",
+                "file": "GEOG581/Assignment01/Assignment01_Aidan_Brown.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "GEOG521/lab08/Lab8_Aidan_Brown.md",
+                "file": "GEOG581/Assignment01/Assignment01_Aidan_Brown.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "GEOG521/lab08/Lab8_Aidan_Brown.md",
+                "file": "GEOG581/Assignment01/Assignment01_Aidan_Brown.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "GEOG521/lab08/Lab8_Aidan_Brown.md"
+                "file": "GEOG581/Assignment01/Assignment01_Aidan_Brown.md"
               }
             }
           },
@@ -158,33 +158,36 @@
   },
   "active": "19c90757d9555ead",
   "lastOpenFiles": [
-    "GEOG531/lab8/Creating Python Scripts for Raster Analysis_Certificate_12012023.pdf",
-    "GEOG531/lab8",
+    "GEOG531/lab9/Performing Analysis Using ArcGIS API for Python_Certificate_12082023.pdf",
+    "GEOG531/lab9",
     "GEOG531/New folder",
-    "GEOG521/lab08/~$b8_Aidan_Brown.docx",
-    "GEOG521/lab08/~WRL0002.tmp",
-    "GEOG521/lab08/~WRD0001.tmp",
-    "GEOG521/lab08/Lab8_Aidan_Brown.docx",
-    "GEOG521/lab08/Lab8_Aidan_Brown.pdf",
+    "GEOG581/Assignment01/~$signment01_Aidan_Brown.docx",
+    "GEOG581/Assignment01/~WRL0002.tmp",
+    "GEOG581/Assignment01/~WRD0001.tmp",
+    "GEOG581/Assignment01/Assignment01_Aidan_Brown.docx",
+    "GEOG581/Assignment01/~$signment01_Aidan_Brown.pdf",
+    "GEOG581/Assignment01/Assignment01_Aidan_Brown.pdf",
+    "GEOG523/Lab8/Assignment8_Aidan_Brown.md",
+    "GEOG581/Assignment01/Assignment01_Aidan_Brown.md",
+    "GEOG581/Assignment01",
+    "GEOG523/Lab8/~$signment8_Aidan_Brown.docx",
+    "attachments/Pasted image 20231205160133.png",
+    "attachments/Pasted image 20231205155712.png",
+    "attachments/Pasted image 20231205155347.png",
+    "attachments/Pasted image 20231205154423.png",
+    "GEOG521/lab08/Lab8_Aidan_Brown.md",
+    "GEOG523/Untitled.md",
     "attachments/Pasted image 20231130161351.png",
     "attachments/Pasted image 20231130151650.png",
     "attachments/Pasted image 20231130140544.png",
-    "GEOG521/lab08/Creating a Space-Time Cube_Certificate_11292023_Aidan_Brown.pdf",
-    "GEOG521/lab08/Introduction to Space-Time Analysis_Certificate_11292023_Aidan_Brown.pdf",
-    "GEOG521/lab07/Esri_Training7.pdf",
     "GEOG521/Practice Exam.md",
-    "GEOG521/lab08/Lab8_Aidan_Brown.md",
     "attachments/Pasted image 20231130022310.png",
     "GEOG581/Fish Habitat Project.md",
     "GEOG523/Lab7/Assignment7_Aidan_Brown.md",
     "attachments/Layout1.jpg",
     "attachments/Layout 1.jpg",
-    "attachments/Layout1 1.jpg",
     "GEOG511/lab05/Assignment5_Aidan_Brown.md",
     "GEOG521/lab07/Esri_Training7.md",
-    "attachments/Pasted image 20231123170902.png",
-    "attachments/Pasted image 20231123165430.png",
-    "attachments/Pasted image 20231123163516.png",
     "GEOG521/lab07/Lab7_Aidan_Brown.md",
     "GEOG521/lab05/Lab5_Aidan_Brown.md",
     "GEOG521/lab06/Lab6_Aidan_Brown.md",
@@ -200,9 +203,6 @@
     "GEOG501/Lab 05/Lab05_Aidan_Brown.md",
     "GEOG501/Lab 05/EsriTraining5_Aidan_Brown.md",
     "GEOG501/Lab 08/Lab8_Aidan_Brown.md",
-    "GEOG511/Lab04/Assignment4_Aidan_Brown.md",
-    "GEOG523/Lab4/Assignment4_Aidan_Brown.md",
-    "GEOG531/lab3/lab3_Aidan_Brown.md",
-    "GEOG521/lab03/Lab3_Aidan_Brown.md"
+    "GEOG511/Lab04/Assignment4_Aidan_Brown.md"
   ]
 }
